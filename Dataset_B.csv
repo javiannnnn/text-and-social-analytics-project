@@ -1,0 +1,714 @@
+title,rating,review_text,guest_type,origin_file
+“Second stay here”,9.6,It is our second stay here because of its convenience and shops around. You can find eateries and supermarket nearby. Staff is welcoming and friendly. A decent night stay even though we can hear knockings from other rooms but it didn't bother us. Would repeat our stay again in future!,Couple,hotel_review_dataset.csv
+“Recommended Hotel in SG”,8.0,"Near MRT & Bus Station, hawker center. The room is clean and spacious.",Family with young children,m-hotel-singapore.csv
+“Nice breakfast”,9.7,good,Business traveler,m-hotel-singapore.csv
+“Staycation ”,6.8,"Despite all the bad reviews I’ve read, surprisingly my stay was great. Checked in on the 2Jan, was a smooth and fast process. Room was big and clean, got a good view. Hotel is expected to look slightly old but it goes well with the vibe. Great for some quiet relaxing stay. Not much issues with our stay. Just that getting in and out of the hotel is quite a walk from the main road, especially if you don’t have your own vehicle. And it can also get quite dark during the night to walk back. Maybe more lights? :)",Couple,amara_reviews.csv
+“Good stay but disappointing damage ”,7.2,"For my 40th birthday, I had decided to splurge extra and treat myself so I booked myself a villa at Amara Resort, certainly not a cheap deal but something i did because at the time of booking, travelling out wasnt an option. 
+
+A few of my friends with their kids came over to celebrate with me and over the course of the day, I discovered that the kids were getting cuts on their feet because of something in the pool. I decided to raise this with the management after my stay via email. 
+The rest of the stay was pleasant and the service staff was very prompt and courteous with their service. 
+
+Following my stay, I emailed the management of the resort to report what had happened, with pics of the cuts  and included the parents of the concerned kids in the email for full transparency. My request was simple: please investigate what happened, please share with me what you found, and offer some sort of compensation I can share with the parents. 
+
+What followed was a series of 7-8 emails and without going into the details, of what turned out to be a frustrating experience just trying to get basic answers, the resort was still not able to articulate what they found and how they fixed it. As 'compensation', they would offer me a 50% discount on the next stay at he VILLA- which meant I would have to fork out a large amount of money again to avail a 50% discount!!! 
+
+In summary, the responses I received from the management were far from professional, there was no accountability or transparency of what their investigation entailed and lastly, in any service industry, when you and your services are responsible for causing distress to the customer - you don't ask them to spend more money to avail of a compensation. It should be provided at the first instance to ensure customer loyalty and turning that opportunity into a win for both the customer and the service provider. The resort fell short on both accounts and if you are trying to reach them at the reception (via phone) - good lu",Family with teens,amara_reviews.csv
+“Service dropped”,7.2,"Staff no initiative to do basic morning greetings. You have to greet them first before they even respond. Engineering staff took some time to come & rectify TV with no color while using DVD player. Have to call every half an hour to follow-up. They are not knowledgeable on what they’re doing. Gave me a room which have a lot of defects while paying at a premium price. Requested to change room, end up that room also got so many defects. Room looks old and bed not properly kept at check-in",Group,Javian_Raw_Dataset.csv
+“Nice place to stay”,9.6,Near lavender MRT station. Cer accessible,Family with young children,hotel_review_dataset.csv
+“Great hotel as always!”,10.0,My few times here for a staycay and everything was perfect as always!,Couple,Javian_Raw_Dataset.csv
+“Above average”,5.2,Not much on view in room . The room service food is horrible. When reflect to a manager during checkout the manager seem like used to it with only a answer if I will inform the kitchen,Business traveler,amara_reviews.csv
+“Exceptional”,10.0,Goed hotel staaf en facility,Family with teens,Javian_Raw_Dataset.csv
+“Great location and stay ”,10.0,Highly recommend for personal or business stays. Nice pool and great location. Lounge had a good selection and nice view.,Solo traveler,Javian_Raw_Dataset.csv
+“Pleasant stay”,10.0,"We stay during F1 week, absolutely a pleasant stay. Friendly staff, clean room just a smaller room than we thought but overall a good stay.",Group,hotel_review_dataset.csv
+“Good”,10.0,"Good hotel 
+Close to town",Couple,m-hotel-singapore.csv
+“The hotel is Good for business or leisure”,8.7,Good. The location was not crowded and easy to get a taxi or short walk to MRT station.,Couple,m-hotel-singapore.csv
+"“Thank you, Amara!”",8.4,"Seamless check in, refreshing welcome drinks and muffins, very clean room, comfy beddings, fresh smelling and peaceful surroundings, lots of complementary drinks, tea, water, chocolates, etc., very accessible to everywhere around Sentosa, very helpful staff especially MJ and the ladies at the lobby and the tall gentleman who assisted us with our luggage. Delicious buffet breakfast with lots of options! Overall a very memorable and pleasant experience! Idk where the other bad reviews in tripadvisor are coming from. Will book here again when we come back to Sentosa.",Family with young children,amara_reviews.csv
+“Small Rooms”,6.0,"Very Small Rooms, even i upgrade the room type",Couple,hotel_review_dataset.csv
+“Highly recommended for foreigners”,10.0,"This is my 2nd time in Singapore, and luckily I have found the best hotel that suits my budget, my needs(Bidet is a must) and is near to all!
+
+Strategically located in Lavender, it is near the MRT Station of Lavender which is just few mins away from the airport and connected to all lines. It is also near the bus station which is few stops from Bugis and Chinatown. It is near cafes, eateries, restaurants and fast food chains. Grocery store is just in front of the hotel. It really made our travel around the city easy breezy as 123.
+
+Checking in was so easy even if we arrived late.  There’s a security deposit of 50$ using card. They do not accept cash. The staff are so helpful and accomodating.
+
+The room itself is so clean and well maintained. Everyday the houskeeping would clean our room which is nice.
+
+Saved us some bucks from buying drinking water outside. They have a water dispenser in each floor, just provide your tumblers and bottles. 
+
+The corridor smells so good! 
+
+10/10 stay for this hotel! Would definitely book again when we come back hopefully in 2025. 
+
+Thank you Beverly Elements Hotel! 😊",Family with young children,hotel_review_dataset.csv
+"“Clean room, great location”",7.2,"Clean and small room, if you have a big luggage you won’t have a space to open it.
+Bathroom is clean, there is a water jug, and you can get the water from water dispenser in the corridor.",Couple,hotel_review_dataset.csv
+“Bueno”,10.0,"Buena ubicación, excelente trato y limpieza. 
+
+Aspectos a mejorar: instalar una mampara para separar la ducha del retrete.",Couple,hotel_review_dataset.csv
+“Good”,6.4,Check in process is very slow even though there's only 1 person ahead of me in the queue.,Couple,m-hotel-singapore.csv
+"“Great stay, value for money”",8.0,"Great stay and comfort, value for money.   Difficulty reaching staff members on call for any changes post booking.",Family with teens,m-hotel-singapore.csv
+“Great and comfortable stay”,10.0,The hotel has a very chill and comfortable vibe to it and the staff were very friendly! Facilities and amenities were adequate as well. Very near the Imbiah Station too!,Couple,amara_reviews.csv
+“Great Hotel with great location.”,9.6,"This hotel location is so perfect. It's on walking distance to Marina Baysands, night foodcourt(near marina), in front of Suntec mall, beside MRT station(in the mall beside the hotel). The hotel itself is great for 5 star hotel, it also have a great breakfast. We definetly be back again.",Couple,Javian_Raw_Dataset.csv
+“Exceptional”,9.6,Perfect choice to stay with couple / family,Couple,hotel_review_dataset.csv
+“Great Deal”,9.2,We got a good price and it was definitely worth it.,Group,amara_reviews.csv
+“Green initiatives a bit overboard with customer experience ”,6.0,I do appreciate the effort to going green to save planet earth but I feel it’s bit overboard by de powering elevators within one second of people  getting inside. Recycling toilet rolls etc…,Solo traveler,hotel_review_dataset.csv
+“Great staff members ”,10.0,Front desk are very quick and accommodating. They processed check in/check out very efficiently despite the very high occupancy. Especially to Ms Lin - who was super helpful,Solo traveler,m-hotel-singapore.csv
+“Quiet stay ”,7.7,Comfortable,Business traveler,m-hotel-singapore.csv
+“Exceptional”,10.0,Value of this property,Couple,amara_reviews.csv
+“Best hotel in singapore”,10.0,Simply the best,Couple,amara_reviews.csv
+“Staycation ”,10.0,"We chose to celebrate our wedding anniversary in this hotel property. The service was impeccably wonderful. • Collection Club Access unlocked • inclusive afternoon tea, evening cocktails and next day breakfast inside club  lounge.",Couple,Javian_Raw_Dataset.csv
+“It's nice to spend time alone as a girl!”,10.0,"I stayed alone for 2 nights. I used it without any discomfort!! It's just the right size for one person, and it's great for just sleeping and relaxing without breakfast or swimming. I requested room cleaning in the afternoon and they cleaned it up nicely. However, the soundproofing is not great, so sometimes I can hear the toilet flushing from other rooms, or I mistake the phone notifications from other rooms for my own. There are also occasional noises from room cleaning, but this only happens in the morning; at night, I can't hear anything at all!!",Solo traveler,hotel_review_dataset.csv
+“So so”,6.0,Overpriced. Room is old and smell of smokes along the walkways. Difference from the advertised photo. Paid for triple sharing but everything in the room meant for 2! Called the receptionist and waited more than 45mins till I have to call again to remind for extra towels and toiletries. Disappointed.,Family with teens,amara_reviews.csv
+"“Lovely stay, calm and safe for solo travellers ”",8.4,"The front desk was kind enough to let me in at 12pm as the room had already been made, appreciated that very very much! Aside from the hospitality, the room is rather basic, compact but comfortable. However, noise from outside the doors can bleed through, but mostly in daytime. Overall, loved it!",Solo traveler,hotel_review_dataset.csv
+“Worth the money”,8.0,"The only issue was ours was a connecting room so we could hear our neighbour really well.Besides that,everything else was great.",Couple,m-hotel-singapore.csv
+“Location and Cleanliness good”,10.0,Location near the mrt station with many food stalls surroundings. Cleanliness good. Will come back again,Solo traveler,hotel_review_dataset.csv
+“worth for money ”,10.0,its a bit pricey but definitely worth for money. friendly helpful staff. unique hotel env and good view from the room.,Couple,Javian_Raw_Dataset.csv
+“No south Changi sea view at all”,7.6,"Room is spacious and bathtub is big too. The kids pool is a bonus with the slide but the kids pool is a also a walk away and we got to cross road to reach there. The amenities in the room is dated. Could see black stains on toilet floor. Not exactly a sanctuary for my room because i could hear loud generator or turbo background noise at night. My own home is much quieter at night. Two additional plus points, the staff is helpful and friendly and the breakfast spread is decent. But I wouldn’t go back again, at least not in this room.",Family with young children,amara_reviews.csv
+“看演唱會很方便”,10.0,11/29是我們第一次去新加坡看Blackpink演唱會，這個住宿離地鐵站很近，附近有很多吃的跟速食，住宿價格平價,Couple,hotel_review_dataset.csv
+“Good value for money”,5.2,The location is quite strategic which located near Lavender MRT. Just abit inconvenience if raining. As the route from MRT to the hotel is not covered.,Group,hotel_review_dataset.csv
+“Overall nice staycay”,9.2,"Staff friendly. Nice hotel. Decent view even though it’s not facing MBS side. Lovely bay window integrated with balcony, not a common design for hotel rooms. 
+
+TV cannot be connected to phones despite following the instructions. We tried three different phone brands  and we do this during our monthly staycays at other hotels so I think it’s the TV in that room with an issue. Minor tardiness - housekeeping forgot the hand soap and toothbrushes. Could still smell the chlorine in the toilet so they likely just finished cleaning before our check in. All in all, good stay but can be better.",Couple,Javian_Raw_Dataset.csv
+“Upgrade is urgently needed!”,4.0,"Despite the fact that it’s located inside sentosa and it’s with soft towel/ mattress cover, I can’t see the reason why it would be a 5 star hotel.
+Not to mention how rundown the place is, which I believe everyone has mentioned it really needs an upgrade, the service is not up to standard as well. Like no one answers call from front desk. And I have arranged a little surprise for my boyfriend and apparently they totally forgot about it. I should have read other’s review before making a booking……",Couple,amara_reviews.csv
+“M Hotel”,7.6,CBD area. Nice breakfast. Nice room.,Couple,m-hotel-singapore.csv
+“Bad”,4.8,"The pool is dirty. Service is not updated. If you are gg to provide qr services, make sure ppl is mending them. Request sent in e afternoon, only read the next day. 
+Food services should be allowed to deliver at doorstep.",Group,amara_reviews.csv
+“Exceptional”,10.0,"Overall, excellent hotel and staff. Easy check-in and check-out. Breakfast was excellent , only stayed for a night passing through Singapore but would stay longer the next time around.",Couple,m-hotel-singapore.csv
+“hotel is kind of old”,6.4,this hotel has seen better days.   location is good though.,Couple,Javian_Raw_Dataset.csv
+“Service ”,2.0,The entire hotel less than 10 employees as confirm by the front desk. No one answer to phone. Bad experience and got charged $300 extra  which im waiting for them to email explain what is that for as I did not take any food nor titbits that offered in the hotel.,Solo traveler,amara_reviews.csv
+"“Value money, clean”",7.2,"Clean, free upgrade to club room.. So happy.",Couple,m-hotel-singapore.csv
+“Service level”,6.0,"When I read other traveller review here on the service level, I do have some reconsideration of booking the room. But I still go ahead. My experience with regards to the service level of the staff are not that bad. But, it will really be good if they can handle the guest with a smile. Kinda of ""cold"" feeling when interact with them.",Business traveler,m-hotel-singapore.csv
+"“Terrible, not worth the money!”",2.8,"Very dirty and rundown, looks like a ghost hotel, or more like a motel.  Not sure how they got the SG Clean certification, because from what I have seen, there is no cleaniness in the hotel and everything was covered in dust and fingerprints (dirty finger prints on the elevator buttons and on the latch of the balcony door). Definitely not safe during a pandemic. Also, the staff is almost not existant and only have very junior trainees, who probably are trying their best without any senior supervisor teaching them how 5 star service is supposed to be. I have checked in and checked out after 30 minutes. Not worth spending 400SGD per night in such a horrible place.",Family with young children,amara_reviews.csv
+“Excellent ”,10.0,Excellent location rooms were big and clean,Family with young children,Javian_Raw_Dataset.csv
+"“Best choice, best view”",10.0,"Amazing experience we had at this hotel, close to metro station and a lot of shops, direct line to the airport and close to the center. I would totally come back here.",Couple,hotel_review_dataset.csv
+“Great place”,10.0,"M Hotel Singapore is the best choice we made to stay in Singapore. Location is great.. room is spacious with  good amenities. 
+Singapore is a best place for tourist and the attractions is at its best.",Family with young children,m-hotel-singapore.csv
+“HAd a Blast at Amara”,9.6,"I went for an event at Sentosa, so I decided to book a room at Amara. The food is great. Great room with a great view.",Family with young children,amara_reviews.csv
+“Best customer service!”,8.8,Friendliest of staff and ease in check-in & check out. Quick response to your requests. Comfortable bed but unfortunately water heater wasn’t working well. The hot water lasted for a short while. No long hot shower. Also aircon is controlled via centralised system. You can only change the mode and fan speed.,Business traveler,hotel_review_dataset.csv
+“Not too bad”,6.4,"Room is smaller than i imaged. so small that i have no space to put my luggage. In the day time there were some construction noises. But the evening is okay.  the facility is very basic. Even there is no water boiler at the room you have to get water outside. Thank God there is a supermarket right across the street. Well, hotels are very expensive in Singapore anyway…",Solo traveler,hotel_review_dataset.csv
+“Disappointed ”,6.8,"Originally thought I booked a smoking room but was told at reception it wasn't and I could upgrade for $120 a day, which I agreed to. When they presented the bill it was actually $175 a day. Scammares... 
+ On the second night we went to the so called high class restaurant on the 5th floor. What a disappointment.  The people at the next table changed a babies dirty nappy at the table and the staff ignored it. So much for dress standards.  The smell alone put me off my food.",Couple,Javian_Raw_Dataset.csv
+“Wow”,8.8,"Everything is good, short people friendly .. ya good",Couple,m-hotel-singapore.csv
+“Acceptable”,4.4,Water dispenser is a bonus point for noodles cup which not need to worry the cleanliness of water cooker. The bed soft for my back support. The smell of toilet is so disgusting which have small flyers and informed the staff but only end up with a chocked perfume which much more uncomfortable.,Business traveler,hotel_review_dataset.csv
+“Exceptional”,9.6,"We had a great stay there. Got twin-beds room as requested. Hotel staff were attentive.  Buffet breakfast were pleasant(paid a bit extra but worth it). The location is superb, nearest to MRT Tanjong Pagar exit H only 2 minutes walk and direct access to Changi airport. So easy to go anywhere around.  Recommend!",Group,m-hotel-singapore.csv
+“Exceptional”,9.6,My stay at this hotel was fantastic.,Solo traveler,hotel_review_dataset.csv
+“Good Stay!”,10.0,Really Good Value. It was a great stay!,Couple,amara_reviews.csv
+"“Great place to stay, housekeeping can be better but I am being picky.. ”",8.8,Pros- location staff facilities amd connectivity and the brand value,Family with young children,Javian_Raw_Dataset.csv
+“Room is not ready upon arrival”,6.0,"Booked the room for my relatives. Check in timing as per hotel rules was 2pm. Upon arrival, room was not ready and only managed to check in after 3.30pm. No call or message was sent to inform of the delayed. Reason given was not enough staff for that day, it is the management issue and should not affect the guests. Very disappointed with the service.",Couple,hotel_review_dataset.csv
+“Excellent”,8.4,would be convenient  if we could have a water bidet / hand shower for the toilet,Solo traveler,m-hotel-singapore.csv
+“Decent hotel for conference nearby”,7.2,"""A dropping stone"" distance to the NDP venue where we went over to see the event. Generally a hotel in a strategic location in the city area",Business traveler,Javian_Raw_Dataset.csv
+“Not Clean”,6.8,"When booked we required a single big bed on higher floor which is more silent. However when we arrived at 9pm and was told since it’s too late there were only a room with two beds on a lower floor. Okay we took it. But what’s most unbelievable was the room was not well cleaned and we found finger nails and hair on the bed table!!! And the room has another door linked with another room so there is light and noise from the door…
+
+The location is nice and the staff is also okay but the experience was bad.",Family with young children,m-hotel-singapore.csv
+“Mixed Bag”,7.6,"Stayed for 4 nights in a twin room
+
+Pros: 
+
+-Very comfortable bed
+-Quiet A/C
+-Great shower, always had hot water
+
+Cons
+
+-Absolutely tiny room, barely space to open luggage, 2 hangers, felt like there was no room to move around
+-Expensive for what you get, I get that Singapore prices ae crazy, but regardless
+-Wifi was abysmal, this part was the most surprising, at least we had a SIM card to get us by, but the Wifi was truly awful.  The signal barely reached our room so the TV couldn't pick it up and my laptop scraped by on 1 bar.
+-Our sink got clogged and it took calling twice and 1.5 days to get it looked at
+-Fire alarm had a false alarm went off in the middle of the night
+-No breakfast option",Couple,hotel_review_dataset.csv
+“Amenities are great”,10.0,Service staff are polite through-out the stay. Buggy was provided to villa too,Couple,amara_reviews.csv
+“Value for money”,8.0,Love this place! Will come back again!,Group,m-hotel-singapore.csv
+“It's perfect for using alone.”,8.8,"There are many other accommodations nearby and a small shopping mall, which is nice, and it's not noisy, so I like it. It's clean and comfortable for sleeping. The price is a bit high, and you'll need to use the hallway water dispenser. It seems good to use hot water. It was convenient to use the toothbrush and amenities. It's about the level of a Korean boutique accommodation.",Business traveler,hotel_review_dataset.csv
+“Discovery Trip”,8.4,"We stayed for a night.  Everything is great, value for money. Is for people who travel light. No space for big luggages.  Is clean, convenient , the staff is helpful and friendly.  The shower and toilet is together so can be slippery for older people.  Basic amenities is provided, would definately recommend this place.",Couple,hotel_review_dataset.csv
+“Best Hotel”,10.0,From check in to check out everything goes perfect. We book via agoda but still they allowed us late check up amd manage to eat our good lunch and coffee at the lounge. Thank you Cherie for your good service  to us. Will surely comeback.,Business traveler,Javian_Raw_Dataset.csv
+“Quite disappointing”,5.6,"Booked a family suite for 4 adults.
+-Was given a wrong room upon check in.
+Given a room with only one double bed instead of 2 single beds plus one double bed. I have to go all the way down to lobby again .  Have to wait one hr plus to change to new room.
+-Lousy breakfast and waitress on first day. Instead of cafe 2000, we have to go to The Buffet for our breakfast. I thought the service here is better as we are guests from M suites but vice versa. Breakfast is not tasty. Prefer the breakfast to be served in Cafe 2000.
+-Bed not very clean. Feel itchy on the 1st night as I have sensitive skin. 
+-Upon check out, staff is not friendly as well.
+
+in short, i don't recommend this hotel to my friends and family. I have booked several hotels before but this is the worst. Disappointing. First time I gave bad review.",Group,m-hotel-singapore.csv
+“Love it”,9.6,"I appreciate the daily room clean and supply restock
+
+Near MRT station was a bonus",Couple,m-hotel-singapore.csv
+“Amara Experience”,5.2,"While the hotel location is good but the facilities are bad. The TV or internet doesnot work. Inspite of repeated complaints no action taken. Then the phone doesnot work so u have to go to the lobby for every issue even for room service.
+U r charging high so better give good service and working amenities.",Family with teens,amara_reviews.csv
+“Sightseeingtour ”,8.8,"Direkt gesagt als Single ideal als paar zu klein.
+Zum Stadt erkunden und übernachten reicht es aber alle mal!
+Sauber, bequem und alles da was man so braucht für zwei Tage.",Couple,hotel_review_dataset.csv
+“HIGHLY RECOMMENDED ”,10.0,,Group,m-hotel-singapore.csv
+“Not bad”,7.2,"Have a great stay in Amara. Quite clean, may be due to they just renovated. Staffs are friendly and nice.  Not sure why my booking for 3D2N became 2D1N. The staffs there are very nice to help arrange and resolved the problem.  The breakfast not what i have expected but decent. The location is also out of the place in Sentosa. Would be great to have a nearby mini mart or shops, I have to travel to beach station for midnight snacks or drinks. It is 2 station away from beach station. Overall, not a bad experience,  a pleasant stay for calm and nature stay.",Family with teens,amara_reviews.csv
+“Suitable for business trip”,8.0,"stayed for 10 nights. a bit shocked they charged S$ 100 per night. so I a paid 1,000 SGD at the very beginning of my trip. However rest of other service is better than any other hotels that I had stayed before in SG. Rarely find the spacious room in Singapore, but they do have! will stay again for the next trip.",Business traveler,m-hotel-singapore.csv
+“Exceptional”,9.6,"2023/2/25 ~ 2023/2/28入住 205 兩張單人床，房間真的滿小的 ，兩咖28吋的行李箱是無法展開，隔音有點差，第二晚隔壁有人住，情侶有點大聲，且打開水龍頭在洗手的聲音都能聽到，但離捷運很近，而且對面有大型超市和 food center , 地理位置很棒，加分了不少。",Group,hotel_review_dataset.csv
+“Anniversary Staycation ”,4.8,"I booked this place for our anniversary but its disappointing and didn't had a good rest/getaway.
+1st night upon arrival at the hotel, valet service was bad!! After check-in we realized our room is pretty close the Universal Studio (cylon ride) so we can hear people screaming (this is probably our fault for not checking it in advance but we requested for a quiet room).
+2nd Day morning (7am), there is some announcements going on in hotel compound. (8am) guest from next door was screaming loudly, kids running around and closing their doors hardly. 
+Night time there is new batch of guests check-in, we counted there was 8person in the studio room. Very obvious they are there for celebration and true enough, they were making noise till 1am. I feel this hotel has very poor guests management, where they allow SO many people to check-in that 1 bedroom and 1 living room studio.",Couple,amara_reviews.csv
+“Exceptional”,10.0,Helpful and friendly customer service,Group,Javian_Raw_Dataset.csv
+“Exceptional”,9.6,"Good service, great ambience, food  at Aquamarine was good, enjoyed the stay well.",Group,Javian_Raw_Dataset.csv
+“Great Staycation”,10.0,"Check-in was a breeze even when I understand the Hotel is running high occupancy. Room is clean & service is good. Thank you, will return.",Couple,amara_reviews.csv
+“Comfortable Long Stay with Great Location and Friendly Staff”,9.6,"I stayed for over 10 nights. The room was very clean, although quite small. The shower had strong water pressure, which made it very comfortable, and the air conditioning worked well. However, it turned off quite quickly even if I just stepped out briefly to get some water. The location is very convenient—just a short walk to Lavender MRT and nearby bus stops. There's also an NTUC FairPrice supermarket right across the street, which is very handy. The staff were very friendly and helpful. I would consider staying here again if the price is not too expensive.",Solo traveler,hotel_review_dataset.csv
+“Still one of my favourite hotel”,10.0,"House handover had  slight delay due to renovation , so we book the staycation with mandarin.  We are not new to hotel afterall we been booking our staycation with mandarin  since many years back.  Splendid staff and concierge counter is always so welcoming for local unlike competitor Oriental,  as if we are stealing for carpark coupon when asking for it.",Couple,Javian_Raw_Dataset.csv
+“设施很新”,8.0,虽然比较小，但是设计合理,Solo traveler,hotel_review_dataset.csv
+“Great place for a perfect retreat”,10.0,"Hotel was clean and quiet, but very convenient to travel around. Recommended!",Couple,amara_reviews.csv
+“Cozy and quiet”,8.4,"Located in quiet road, not much of noises even we got a room directly facing the road. Tiny room but I guess that’s fair. 5 min walk to nearest mrt",Couple,hotel_review_dataset.csv
+“It was absolutely great! Value for money ”,10.0,"I read multiple reviews of hotels around and booked this place. No regrets!! The staff was so so helpful, location was good and the rooms were super clean. I travelled with my mom and we enjoyed our stay at the hotel. The staff upgraded my room as well since there was a 15 min delay. Highly recommend to anyone!",Couple,hotel_review_dataset.csv
+“Great corporate and staycation hotel”,8.0,"Close to the heart of Singapore financial district, this hotel has very clean and comfortable rooms. Good corporate travels and Sunday weekend staycation for those working in the CBD area.",Solo traveler,m-hotel-singapore.csv
+“Unique Garden Concept Lobby & Kids Playroom”,10.0,Love the lobby atmosphere and the king size bed is comfy. It's also great that they have the kid's playroom so parents can enjoy their quiet meal. Will definitely stay there again but I hope there will have a kids play pool in future.,Family with young children,Javian_Raw_Dataset.csv
+“Good quality hotel”,9.2,"The room quality is very good.
+Provided with free-to-use Android phone, will be useful for someone in need for internet access around Singapore.",Solo traveler,Javian_Raw_Dataset.csv
+“Above average”,5.6,no service from the staff. dont bother calling the frontdesk. no one bother to pick the phone.,Couple,amara_reviews.csv
+“Good”,6.4,"good value for money.  The staff was friendly and the rooms were clean. 
+On the downside, the property lacked shopping options nearby and the view from our room was nothing special.",Couple,hotel_review_dataset.csv
+“Relaxed and efficient”,7.2,"I’ve stayed here a number of times and always have a good experience.
+Good location,efficient friendly staff and good sized rooms",Couple,Javian_Raw_Dataset.csv
+“Very good”,8.0,Beautiful hotel in a good location. You know it’s built years ago and some room features are outdated but it’s still cozy. Loved that there’s a pianist at the lobby by night time. The room was clean but the bathroom could use some more cleaning. We loved how the hotel is connected to the mall through the 4th flr. That is convenient especially since our young kids wanted to go to Pororo Park which was at the same mall.  Lots of food choices and Japanese mini mart in that mall. The hotel has good coffee by the lobby. There’s also a small play area for kids at the hotel. Easy to get a taxi. Staff are friendly.,Family with young children,Javian_Raw_Dataset.csv
+“It was awesome.”,8.4,"Good place, clean and friendy people.",Family with teens,Javian_Raw_Dataset.csv
+“Nice environment ”,10.0,The staff gave a complimentary bday cake for my husb. Really love the atmosphere and the room was great and comfy,Couple,Javian_Raw_Dataset.csv
+“신축이라 깔끔합니다. ”,9.6,"샤워기 헤드 물이 새서 수압이 별로였던거 말고는 깔끔하고 괜찮았습니다. 
+층마다 정수기 있고, 물병도 제공해 줘서 물 많이 마시는편인 저에게는 매우 좋았네요.",Solo traveler,hotel_review_dataset.csv
+“Tired”,6.0,"Staff were great but all amenities, gym, pool, rooms were in need of updating.",Family with teens,amara_reviews.csv
+“Beverly Hotels Elements”,10.0,"Picked this place solely on its location which is nearby an MRT station. Convenient, no complaints.",Solo traveler,hotel_review_dataset.csv
+“Room is old.”,5.7,,Business traveler,m-hotel-singapore.csv
+“Great location”,9.2,Great location but room on the smaller side. Service is good too.,Couple,hotel_review_dataset.csv
+“Christmas get away ”,10.0,"Accomodation, food, staff and location are excellent.",Couple,m-hotel-singapore.csv
+“Superb service! ”,10.0,"Our room was upgraded to city view & for the first time me & my fiance was directed to the room by the guest service, syahirah. Hotel even provide a complimentary cakes fruits and drink as a gift to my fiance for his birthday! Love the open concept of the hotel & def the view of our room! Don’t mind coming back here to stay again!!",Couple,Javian_Raw_Dataset.csv
+“GREAT EXPERIENCE”,9.6,Love the room! Really enjoyed it tgt with my boyfriend & even got a complimentary cake for my birthday! Would definitely come back to celebrate special occasions with my bf!,Couple,m-hotel-singapore.csv
+“Very good”,7.2,"rooms and facilities need some refresh and upgrade, food ok, staff ok, location and gardens very nice",Couple,amara_reviews.csv
+“Very good”,8.0,"Good location! Food places nearby!
+Few minutes walk to train station
+Rooms are big and clean",Couple,m-hotel-singapore.csv
+“Exceptional”,10.0,beautiful architecture!,Business traveler,Javian_Raw_Dataset.csv
+“An ok hotel”,6.0,"Room was big, spacious, but a little bit dark. 
+Location is good, right in front of a bus stop that takes you to the city center, and 5-7 min walking distance to the metro.
+Breakfast was dull and didn't have a lot of western options. Every day the same things more or less. Wouldn't recommend paying for it.
+We appreciated the early check-in.",Couple,m-hotel-singapore.csv
+“No follow up for special event eg: Birthday/ Wedding anniversary”,7.2,"Even with special request for my wife Birthday, there is no follow up from the hotel staff, such a disappointment, there is better hotel out there rather than this hype hotel..",Couple,amara_reviews.csv
+“Very good location”,9.6,"Just few steps away fr lavender station, the room for 1 was so small but comfortable and clean. Thank you",Solo traveler,hotel_review_dataset.csv
+“One out of many”,8.0,"Great location, spacious rooms. It is one like many others. Food is not good by the way.",Couple,m-hotel-singapore.csv
+“Exceptional”,9.6,clean room,Solo traveler,hotel_review_dataset.csv
+“.”,10.0,.,Group,amara_reviews.csv
+“Pleasant Stay”,8.8,"The room is very clean and have a new interior. I like the size of the bathroom. The size of the bedroom is small, but very comfy. We stayed there 2 adult and 6 yo kids, and we could have a good sleep there. Very close to MRT and food center. We were pleased with the reception girl who welcomed us on the evening of 1st Nov 24 (around 10 pm). I do not know her name, but she just gave us a big smile during check in process. We were tired when we got there, but she made our day. She looks good and do the check-in wholeheartedly. Hope you can give her appreciation and say hi from me. Thank you Beverly Hotels Elements!",Family with young children,hotel_review_dataset.csv
+“Great hotel in a nice location ”,9.2,"Good hotel, great view..
+friendly staffs.. and the food is good..",Business traveler,Javian_Raw_Dataset.csv
+“Not worth”,4.4,"The resort has very basic facilities, no in room service after 10pm, so make sure you have some snacks tugged in ur luggage, also the room with private jaccuzzi is quite dirty, has mosquitoes & stains on floor & bathroom, balls of hair on the floor leading to the jaccuzzi. Very disappointing & not worth at all for the price paid",Family with young children,amara_reviews.csv
+“Small rooms”,6.4,"The rooms are renovated and modern but not very practical. They are quite small. No hand towel or face cloth is provided. Water from the shower leaks everywhere. Not many toiletries provided. 
+They give you mugs and tea bags but no kettle to make the tea!
+When I asked reception, I was told you could get hot water from the hallway where there is a water dispenser. It provided cold water but no hot water, so I’m really not sure what is going on there. 
+There was a fridge and safe in the  room.",Couple,hotel_review_dataset.csv
+“good”,8.0,best choose,Business traveler,m-hotel-singapore.csv
+“Best hotel we’ve ever stayed ”,10.0,"Great location, walking distance to all attractions. Great service.",Couple,m-hotel-singapore.csv
+“Convenient and cleanliness”,7.2,The location of the hotel is convenient and the room is clean with stable WiFi,Solo traveler,m-hotel-singapore.csv
+“Acceptable”,3.2,"The place is not like the pictures, the rooms are a bit old",Group,amara_reviews.csv
+“M Hotel”,10.0,Great place nice room,Business traveler,m-hotel-singapore.csv
+“Rooms are not clean.”,5.6,Rooms are dusty and toilets have stains. No value for money.,Couple,amara_reviews.csv
+“Staff attentive ”,7.6,"Staff attentive to our needs. Even asked if we mind having corner room..
+Facilities well maintained except for some bars were loose on the towel rack",Couple,m-hotel-singapore.csv
+“Best location and friendly staff”,9.2,"Best location close to everything.
+Friendly staff. Specially the concierge names Deven, he was exceptionally helpful 
+We enjoyed staying there",Couple,Javian_Raw_Dataset.csv
+“Awesome experience .  ”,9.6,"This hotel has a long history, but I was glad that it was reborn through a recent remodeling In particular, the interior of the lobby was good, and our honeymoon was more special thanks to the delicate service of the front employee, ROSY. You’re really awesome thank you for your kindness and caring customer service. You made us a sweet  honeymoon! 
+The only disadvantage is that the location was a little far from MRT. But if I have a chance with my family, I would like to visit again and apply for MBS view then.",Couple,Javian_Raw_Dataset.csv
+“Staycation ”,8.0,"Booked for staycation, birthday celebrations. The room is huge and the view is superb. The overall experience of stay in was marvelous and not forgetting the friendly staffs.",Couple,Javian_Raw_Dataset.csv
+“지하철역과 가까워”,10.0,"지하철역과 마트가 가까워 편리했습니다.
+숙소위생상태도 좋았습니다",Family with teens,hotel_review_dataset.csv
+“Acceptable”,4.0,房間很小，隔音差,Group,hotel_review_dataset.csv
+“Clean and comfort ”,10.0,"I had a pleasant stay at the hotel, it’s a clean, comfort and quiet hotel. Definitely will stay here again",Solo traveler,hotel_review_dataset.csv
+“Very Good”,10.0,Very Good,Couple,amara_reviews.csv
+“No upgrade despite rooms”,6.0,"It was my anniversary, the available rooms was so much and yet they gave me such a small rooms. I have stay there before covid and they always gave me a big room. Terrible decision making",Solo traveler,m-hotel-singapore.csv
+“Fabulous hospitality in beautiful setting”,9.6,"Wonderful 5 nights at Parkroyal Collection Marina Bay. Check in and check out was super fast. Concierge service and all staff were outstanding. Room was very well appointed, comfortable and clean. Large breakfast selection which we could sit and enjoy in the area adjacent to the main dining area in a lovely tranquil setting. Would definitely stay here again.",Family with teens,Javian_Raw_Dataset.csv
+“Short overnight stay in singapore”,6.0,Short and comfortable.  Staff helpfulness was the main plus point,Solo traveler,m-hotel-singapore.csv
+“reasonable for singapore”,7.6,If you looking for a place just to sleep then it’s alright. The room is so small that I can’t even open my luggage but thumbs up for the cleanliness.,Couple,hotel_review_dataset.csv
+“Love it”,10.0,Love it jus love it,Family with young children,Javian_Raw_Dataset.csv
+“房間很乾淨，有大片落地窗”,9.6,"- 飯店位在的位置蠻熱鬧的，往MRT走有熱鬧的hawker center、小攤販；往再興發咖啡店方向走會有許多酒吧、餐廳、24小時hawker center，很值得一試
+- 有問題詢問飯店櫃檯都有得到回應。
+- 公共設施不多，所以基本上在飯店就是待在房內
+- 有飲水機！
+- 本次到飯店內有收押金50SGD，我們用丟一張所以扣除20SGD押金後才歸還給我們QQ",Couple,hotel_review_dataset.csv
+“Overall is good”,8.0,Overall is good but can be better.,Family with young children,m-hotel-singapore.csv
+“I would stay again”,9.6,Really clean place! The room is small but the location and the value for money were great. The staff was also very friendly.,Couple,hotel_review_dataset.csv
+“Great Stay”,10.0,"Great location, mattress was good to sleep",Business traveler,Javian_Raw_Dataset.csv
+“Love this hotel”,9.2,"Been coming back to this hotel quite frequently.. it has a quiet environment but yet there are many good places for food. Hotel staffs are friendly. Clean, big and comfortable hotel rooms.",Couple,m-hotel-singapore.csv
+“Super poor hospitality”,5.2,"Staffs are not well trained (drop my bag on muddy wet ground), poor communication, waited very long to check in (was told by one of the staff going to call me when the room is ready, but no one call, until I went to check myself),  after checked in",Family with young children,amara_reviews.csv
+“Agoda says it is 3 stars . It is a 1 star hotel.”,3.2,"The checkin counter is even at the outdoor.  Toilet and the bath is the same partitioning that the entire toilet will be wet. Water would need to go outside to take from the water machine.
+
+I would call it is a single room hostel.",Solo traveler,hotel_review_dataset.csv
+“Very comfortable stay”,9.6,"Other than the laggy tv and the non-soundproof doors, everything was great!",Couple,amara_reviews.csv
+“Helpful & Genuine ”,8.4,"Concierges are really helpful and explained every placec in detail whenever question we asked. 
+
+Checked in and checked out were pretty quick. Love their Tea Bar Pie a lot!",Solo traveler,m-hotel-singapore.csv
+“Eveything Ok Except Breakfast”,6.0,"Lack of staff in the restaurant during breakfast time, table not ready, full with left over dishes, restaurant staff not friendly",Family with young children,m-hotel-singapore.csv
+“Excellent”,8.8,"It was overall a pleasant experience. Location of hotel is very convenient to food area and shopping. Checking in was a breeze. Opted for express check out (I.e., drop your room card key in the designated box) and that’s it. Room was clean. Only downside was that we had a tiny inconvenience due to a lizard being in the room. And that the tv channel kept on freezing. Other than that, everything was amazing.",Couple,m-hotel-singapore.csv
+“혼자 여행으로 추천”,9.6,"싱글룸에 욕실, 침대, 와이파이, 냉장고, Tv 다 갖춰져 있어서 여행 동안 편했어요.",Solo traveler,hotel_review_dataset.csv
+“Worst service ever for 5 star hotel”,3.2,We paid premium to just spend the nights comfortably. The AC wasn’t functioning well enough through out the night. I have never heard a hotel were house keeping doesn’t start until 9am in the morning.,Family with young children,amara_reviews.csv
+“town stay good location”,9.7,great stay always happy to be back and nice staff,Business traveler,m-hotel-singapore.csv
+“Exceptional”,10.0,Very good place to stay. I absolutely reccommend this hotel if you visit Singapore,Couple,hotel_review_dataset.csv
+“Luvly short stay”,8.8,"Friendly and helpful staff, awesome location, beautiful bay view",Family with young children,Javian_Raw_Dataset.csv
+“Above average”,5.6,"Took a jacuzzi suite  but was not so clean 
+Buggy we’re sometimes busy 
+Breakfast had very less choice",Couple,amara_reviews.csv
+“Amara”,8.0,Good location,Couple,amara_reviews.csv
+“Good location and nice room.”,9.6,Good location and nice room.,Family with young children,Javian_Raw_Dataset.csv
+“Deluxe room w king size bed”,7.6,"The deluxe room is spacious and comfortable! However, only the hot water for the bathtub is working, we had to use the ice container to fill the tub with cold water. The tv is not in working condition. Luckily we spent most of the time outside. And its not near to sentosa attractions fyi.",Family with young children,amara_reviews.csv
+“Exceptional”,9.2,Peppermint Resturant- it would be better to have more fusions. Staffs are friendly and courteous. Overall the stay is pleasant,Family with teens,Javian_Raw_Dataset.csv
+“Nice enough for a revisit”,7.2,A little bare but perhaps still early in its makeover. Please remove thick pile carpet from front desk area. A good thing my wheelie had medium sized castors. The aircon vent dripped. But full marks for the nespresso machine.,Couple,Javian_Raw_Dataset.csv
+“Parkroyal Collection Marina Bay Always My Favourite”,10.0,Always my first choice hotel because I love it being directly linked to Marina Square with shopping and dining. The hotel room is spacious with a good view and always goes an extra mile to personalise their service or accommodating our requests. I will definitely return.,Couple,Javian_Raw_Dataset.csv
+“Awesome Experience”,10.0,Staff were very friendly and accomodating. It was a pleasant experience and we had a wonderful stay.,Family with young children,Javian_Raw_Dataset.csv
+“Very disappointed with the overall experience ”,4.0,"I stayed at Amara Sanctuary Resort from 8–9 November 2025 and was disappointed with several aspects of my experience.
+
+First, the service from both the shuttle bus driver and the restaurant staff fell far below expectations. The shuttle driver was rude, unhelpful, and dismissive. When we politely asked if the bus was heading to Resorts World Sentosa, he responded with an angry expression
+
+The service at the resort’s restaurant was also poor. The staff were inattentive, lacked courtesy, and did not provide the level of service expected from a hotel of this calibre.
+
+Additionally, I had pre-arranged a birthday surprise for my friend — including a cake and room decorations — which the hotel had confirmed beforehand. However, none of these were prepared upon our arrival, which was extremely disappointing for what was meant to be a special celebration.
+
+I also emailed the hotel regarding this experience, and while the staff replied that they would investigate, I have not received any follow-up or response even after one week. This lack of accountability further added to the disappointment.
+
+Overall, the stay did not meet the standards I expected, and I hope the hotel improves its service, communication, and reliability moving forward.",Couple,amara_reviews.csv
+“Spacious and good location”,8.4,"Spacious, good décor and good location. Bath room is great",Business traveler,Javian_Raw_Dataset.csv
+“A great place away from city life”,9.6,"A good hotel to chill and relax, away from city life",Family with young children,amara_reviews.csv
+“It grew on us”,6.4,"We arrived hereto wind down after a hectic cruise and were initially disappointed,the photograph of the pool is a little misleading as that pool services the deluxe rooms however the sky pool in the afternoons is lovely and the breakfast excellent cleanliness of the room however leaves a lot to be desired .on the surface it is excellent but I dropped my earring and it went under the bed and I was amazed to find wrappers and lots of dirt under there as I went to look for it! I don’t normally check under beds and behind furniture but clearly they only clean what you see at first glance which is disappointing. The hotel is only a three minute walk from the beach but it took us a while to find this out it would have been nice to have been told how to locate not only the beach but also the food hall on the island....an information pack in the bedroom would be a good idea.i expect they don’t tell you in the hope that you will dine in the hotel but this is an expensive option.",Couple,amara_reviews.csv
+“Awesome!”,9.6,"Good location, lots to eat around, clean room and very friendly staff.",Solo traveler,hotel_review_dataset.csv
+“Deposit ”,9.2,Top management implemented deposit only visa/master card only. It is very troublesome for all guests as the refund takes very long 4-6 weeks.  The majority of hotels do accept cash as deposit only Beverly elements.  You just turn away most of your guests to other hotels.,Solo traveler,hotel_review_dataset.csv
+“3rd time back”,9.2,"booked for my wedding shoot on Sentosa. 3rd time staying here, Amara never disappoints!",Couple,amara_reviews.csv
+“2階にて1泊しました。”,10.0,"私は英語も中国語も話せませんが、スタッフは全員親切で大変助かりました。
+水回りは清潔でとても良かったです。
+他の階はは分かりませんが、少なくとも2階ウォーターサーバーがあるのは助かりました。
+シンガポールは暑く、汗をかくので前日着ていた服を干してからスーツケースに入れたいと考えていますが、2本しかないのでインナーとシャツしか掛けることが出来ませんでした。
+あと1本あればズボンをかけることが出来たので、さらに良かったと思います。
+チェックイン後、スーツケースを預かっていただける点も助かりました。",Solo traveler,hotel_review_dataset.csv
+“1 day staycay”,8.4,"Hotel is clean and beautiful. Only downside is it was raining most of the days, thus unable to fully utilise the facilities.",Couple,amara_reviews.csv
+“Exceptional”,10.0,all details from cleanliness to friendly staff members to breakfast buffet was spot on excellent- we appreciate - thank you,Business traveler,Javian_Raw_Dataset.csv
+“HOTEL VERY CLEAN”,10.0,"Pertama menginap di Beverly Hotel sangat puas dan nyaman. Proses check in mudah & Kamar Hotel sangat bersih. Staff Resepsionist & House Keeping sangat ramah dan membantu dari proses check in sampai check out. Akan kembali menginap disana, jika berkunjung ke singapore. Thanks Beverly Hotel.",Family with young children,hotel_review_dataset.csv
+“나쁘지 않음”,7.6,엄청 좁지만 라벤더역이랑 가깝고 방 컨디션이 쾌적함! 단점은 bottle로 제공하는 물이랑 실내화가 없다는 점..? 그리고 방음이 그렇게 좋지 않아서 옆방이 시끄러우면 힘들다.. 직원 분들은 매우 친절함!,Solo traveler,hotel_review_dataset.csv
+“Relatively Classy Hotel with Awesome Location”,9.6,"This is a relatively classy hotel under the Meritus group. I was given a room on the 18th floor and had a beautiful view from the balcony. The room was spacious. Cleanliness could be improved as there was dust at some corners of the cabinets. The room probably need some refurbishments too, as some hinges and locks were loose/faulty. Nonetheless, the location of the hotel was fantastic and it is linked to the Marina Square mall and in close proximity (sheltered) to the train station.",Solo traveler,Javian_Raw_Dataset.csv
+“Luxury Hotel WITH BAY VIEW ROOM”,10.0,Excellent Hotel ! best location and exceptional Breakfast ! best for Families with kids. Staff were helpful and allowed 1 room early Check In @ 9 AM . 10/10 Rating ☺️,Family with young children,Javian_Raw_Dataset.csv
+“First stay on Sentosa Island.”,9.2,"The location was good for Universal Studios, and the hotel room was spacious, so I was able to relax. The breakfast was all delicious and I never got bored with it. The smiling woman at the breakfast restaurant was wonderful, and on the second day, when we took a picture together, she brought her own phone for the photo as well. She had a high level of service attitude, and I felt that her smile reflected that. However, there was one thing I found strange: despite having booked a deluxe room, I was assigned a room that was not a deluxe one at check-in, and no reason was given for the change. Since I had already paid for the deluxe room through Agoda, I felt quite uncomfortable about it. The woman at check-in was not friendly, and since it was already past 7:30 PM, I didn't feel inclined to address it. Also, I had to ask for directions to the breakfast area myself. Nevertheless, the staff at the breakfast restaurant were all pleasant, which was a relief. I would consider visiting again.",Couple,amara_reviews.csv
+“Comfortable ”,7.2,"The M Hotel in Singapore is an older property, but it’s well maintained and kept in good condition. It’s located in a busy business district, not particularly close to major attractions, so you’ll likely need to take a taxi or Grab to get around.
+
+We stayed in a family suite, which was nicely decorated, comfortable, and fully functional — everything worked as it should. The beds were comfortable, and the rooms were clean.
+
+The buffet breakfast was fairly standard, offering a mix of Indian, Chinese, and Western dishes.
+
+Singapore is an expensive city to visit, so keep in mind that value and expectations don’t always align. That said, the M Hotel offered reasonable quality, though I personally felt it was slightly overpriced.",Family with young children,m-hotel-singapore.csv
+“Awesome hotel”,10.0,"The hotel is located conveniently near the Lavender MRT Station where you can find various stores that sell budget-friendly, quality food like the Chef Ibu, Old Chang Kee, Bake Inc.,Chicken Rice.  Near these stores are McDo, Toast Box,  and Burger King.  The bedroom, especially the bathroom is impressively spacious , clean & tidy.  They have available water dispenser just outside our room.   The staff are helpful and welcoming.  Above all,  we had a peaceful and restful stay in Beverly Hotels Elements.   If you want to stay near the Marina Bay Sands (Bayfront), Bugis, Sentosa, and same mrt line to Changi Airport without breaking much of your wallet, then opt for this hotel.",Couple,hotel_review_dataset.csv
+“No”,7.2,Cons would be that my request for late checkout is denied despite the fact that its a Monday when I checked out and obviously there wasn't much guests checking in.,Couple,amara_reviews.csv
+“Too small”,7.2,The room i stayed in was clean but the water pressure in the shower was too low and the room itself was small. Unfortunately i didnt get much sleep due to the snoring of the person in the next room. It appears that the walls are not insulated,Solo traveler,hotel_review_dataset.csv
+“Exceptional”,9.6,Disappointed that the sky swimming pool is closed for wedding show but there’s no notice to us at all. They closed the pool for entire day and we didn’t get to swim.,Couple,amara_reviews.csv
+“Good hotel in a good location”,10.0,"While a ""busy"" hotel, the staff made up for it by going out of their way to deal with any eccentricities I had. Enjoyed the stay as much as I have over the years.",Business traveler,m-hotel-singapore.csv
+“Outstanding Staff and Experience”,8.4,Outstanding service! The staff went above and beyond accommodating my requests to make the stay a special one. I would absolutely recommend and stay again.,Couple,m-hotel-singapore.csv
+“clean room”,8.7,,Couple,m-hotel-singapore.csv
+“Too many issues”,2.4,"The wifi was very slow and laggy so we were not able to watch the tv at all. Upon asking the staff, we were told that it’s a shared connection by all the guests hence they are not able to do anything about the issue. Sink water turned out chalky, so we had to make do with bottled water. As for the shower, water heater not working. Water remained hot throughout. There was also ants and mosquitoes in the room.",Couple,amara_reviews.csv
+“Best place ”,8.8,"Very nice place and friendly staff and service 
+But the problem at the courtyard little bit dirty",Couple,amara_reviews.csv
+“Room”,10.0,Room is quite spacious and clean.,Family with young children,m-hotel-singapore.csv
+“Perfect Stay in a Prime Location”,10.0,"I had an absolutely wonderful stay! The hotel is exceptionally clean and smells amazing. The staff is truly incredible, and the highlights of my experience were the two front desk employees – they are both extremely polite, welcoming, and made me feel right at home. The housekeeping staff was also amazing, always friendly and approachable. The location couldn’t be more perfect, just a few steps from Lavender MRT station, making it easy to explore all of Singapore’s neighborhoods. The combination of comfort, quality service, and unbeatable location makes this hotel an outstanding value for the price. I will definitely stay here again on my next visit",Family with young children,hotel_review_dataset.csv
+“가격대비 좋아요”,9.6,"물가 비싼 싱가포르 생각하면
+타 숙소에 비해 저렴한 가격에 
+작은 방이지만 깔끔했고,
+라벤더역 인근이라 이동하기에도 괜찮아요!
+머무는 동안 숙소 내 공사일정이 있어 시끄러울  수 있다는 얘기 체크인하며 들었지만 해당 시간에는 밖에있어서 상관없었고,
+여직원분의 하이텐션과 친절함이 좋았어요~",Solo traveler,hotel_review_dataset.csv
+“Great Restaurant ”,9.6,"The hotel’s restaurant, Peppermint, is superb. Variety of food and delicious. My room was upgraded by the check-in staff and managed to have an amazing view of the NDP rehearsal foreworks. Even provided a baby crib for my kid.",Family with young children,Javian_Raw_Dataset.csv
+“Great value for money ”,8.8,Hard to beat at this price point. Had everything that I needed for a quick business trip.,Business traveler,hotel_review_dataset.csv
+“great location”,10.0,"not a new hotel, but great location. 
+friendly and helpful staff, with my special needs to have my expressed breast milk stored at the hotel's freezer. close to mrt and 7-11 & supermarket. nearby cafes and all. 
+if u r looking for a quieter area of spore on the weekend, it's excellent because mainly it is a business area.",Family with young children,m-hotel-singapore.csv
+“非常迷你但很乾淨”,9.2,是一個真的超小的房間，如果你像我一樣是收納大師善用它每個收納櫃那住這裡不是問題，如果去新加坡玩整天都在外面只是回去睡覺的話這間就很適合，床非常好睡。在現在這麼貴的新加坡這是很不錯的價格一晚4000台幣左右，飯店無設施最好的就是每層樓有飲水機而且飲水機的冰水很冰，很適合用保溫瓶帶出門在外面喝，新加坡真的是好熱啊～,Family with young children,hotel_review_dataset.csv
+“Gorgeous hotel with almost everything ”,8.0,This hotel is surrounded by beautiful gardens and has three lovely pools. Very tranquil and beautiful surrounds. The room was clean and modern and the restaurant provided excellent food. Very comfortable bed and great amenities. Only thing that would have been good is a free shuttle to Resort World so the walk to Universal Studios wasn’t so long. We will definitely stay here again.,Group,amara_reviews.csv
+“Acceptable”,2.8,"Would definitely not recommend this resort. A few negative experiences: 
+1. When arrived, there was no staff present to help with the luggages etc even though there was staff available at the reception and they clearly saw me struggling with my belongings, they didn’t do anything. 
+2. The place is very run down and definitely doesn’t look like it’s worth that amount of money paid to stay there
+3. The uncarpeted area of the room is very dirty with stains around. For the first time it wasn’t a choice whether or not to wear the hotel slippers for me. 
+4. There is no room service after 9/930PM. It is very inconvenient for the occupants when we need help. Honestly that timing is too early for anyone. 
+5. The “sky pool” is overrated by the hotel. It is actually quite a small pool and the view isn’t as expected. 
+6. The security guard and the buggy drivers were very rude when we overheard them discussing about planning to do door to door inspection for guests. Are they really going to knock on each door and disturb our stay there? 
+7. To get ice, you’ve to bring the ice bucket down to the restaurant and get it yourself. Honestly I don’t know what kind of service have they provided us with other than checking us in and the daily room cleaning service. 
+
+If I have known, I would not have mind paying slightly more for W hotel or Sofitel which gave me a better experience during my previous stay there.",Couple,amara_reviews.csv
+“Acceptable”,4.4,Rooms are nice but staff are not courteous..also not a lot of facilities to justify the price of the rooms.,Group,amara_reviews.csv
+“Best hotel ever”,10.0,"Price is affordable, only stayed for a night and had the best sleep ever!!!! Cosiest bed too. Love parkroyal collection be it Beach Rd or Marina Bay!",Solo traveler,Javian_Raw_Dataset.csv
+“Very good”,8.0,"We arrived at 3.20 PM but room is not ready yet. Staff gave us voucher for welcome drink so we can rest whil waiting for our room. 
+The room is spacious, kids happy to play in the bathtub. We got complimentary Oreo, KitKat, coke and orange juice from the mini bar. Kids pool must be booked. Got mini water slide in kids pool. 
+Location wise is okay. 10 mins walk to Palawan beach. And there is sentosa bus stop in front of hotel.",Family with young children,amara_reviews.csv
+“Decent room with good facilities”,6.8,"The courtyard room is spacious, amenities are well provided too. But it is not the cleanest. The jacuzzi is littered with leaves and the toilet is also pretty old. it's our second staycation in Amara. Breakfast is very good though, has all the local dishes.",Couple,amara_reviews.csv
+“Staycation”,9.6,Requesting for early check-in but room wasn't ready however when requesting for late check-out they compromised for 2pm :),Couple,Javian_Raw_Dataset.csv
+“Relaxing stay ”,9.6,My husband and I took a four day staycation at Amara Sentosa.  we are happy with the relaxing environment the hotel provided. friendly and helpful staff. there are free shuttle buses at the hotel entrance to fetch you anyway you desire to go in Sentosa.  the hotel is also within walking distance to many attractions and trails.,Couple,amara_reviews.csv
+“clean with good service”,7.2,"except the design of shower room and toilet, all other things are good.  In general, cheap, clean and good service.",Business traveler,hotel_review_dataset.csv
+“Perfect stay!”,10.0,"Accomodation was perfect, room was nicely furnished and very clean.
+
+Jess, Angie (nijmah), vissa Have been super nice and would recommend highly if ppl are planning a trip to Singapore :)",Solo traveler,hotel_review_dataset.csv
+“Great little hotel ”,10.0,"Great hotel, close to MRT, highly recommended, very clean, perfect for a few night stay!",Family with young children,hotel_review_dataset.csv
+“Bad experience ”,4.4,"Book a 2 room villa planing for a frenz celebration. expectation was having the whole villa to ourself, who would book a room and end the nite early? The 4 of us was having our first nite swim in the pool but subsequently was ask to lower down the volume. We did and just do our usual swim but was ask to lower down the volume again. 
+Very disappointed and will not book again from amara sanctuary resort. Feel that it totally not worth the money as too many restriction.",Group,amara_reviews.csv
+“Cp值高”,10.0,房間不大，但勝在交通方便，距離MRT約5分鐘，附近有便利商店.超市.早餐店.速食店，可寄放行李，層樓有共用飲用水機。,Couple,hotel_review_dataset.csv
+“Need renovations”,8.0,Been there a few times before.  Great location and service staff very attentive.  Rooms and facilities dated and in serious need of a renovation.,Business traveler,Javian_Raw_Dataset.csv
+“Nice hotel.”,8.8,Nice rooms. Clean. Modern. Nice staff. Not cheap...but the quality is good.,Couple,m-hotel-singapore.csv
+“Most Helpful Concierge Service Ever”,9.6,"Super professional and kind assistance in restaurant reservation. No need for extended check out, 6th floor executive lounge was perfect.",Business traveler,Javian_Raw_Dataset.csv
+“Excellent! As what I expect! Great experience for a short staycation.”,9.2,Excellent staff and services provided. Money worth.,Couple,m-hotel-singapore.csv
+“가성비좋습니다.”,9.6,싱가포르 대부분 숙소가 비싼데 비해 가성비호텔입니다. 하지만 숙소가 조금은 작다는게 아쉽습니다. 그래도 매우 만족스러웠으며 재방문할 의사가 있습니다.,Couple,hotel_review_dataset.csv
+“Extremely disappointed with the Room and Service”,3.6,The Lady who did the check in and the Guy who did the check out and the guy (Karthik) who helped me with the taps on the bathroom. Kudos to them. Everything else was disappointing. This is my first time having a staycation in Singapore. The staff were ok. The room was terrible. Old fixtures (photos are completely whacked no accurate) and had a weird smell. There were lizard poop on the windows - not properly cleaned. We got the accessible room and it was poorly maintained. The bathtub taps were broken and i was struggling to have a decent shower.  The emergency pull cord was snapped. Light switches were not working. Overall complete disaster,Couple,amara_reviews.csv
+“hotel bersih”,9.6,"kamar dan kamar mandi sangat bersih,  staf ramah, terdapat filter air minum di luar ruangan, dekat dengan stasiun mrt.",Couple,hotel_review_dataset.csv
+“Highly recommended”,8.4,"Felt like a good weekend away from home when we travelled to a place a little more in the inside of the island. Great ambience, super convenient to travel to and fro Vivo City. Just that it takes 5-7mins to walk from Imbiah Station to the hotel but so worth it! Amazing rooftop pool.",Couple,amara_reviews.csv
+“Deluxe Room with no reno”,6.4,We are surprised to see the deluxe room is no renovated as other types of room are already renovated. The room looks old as usual. Hope the management will do a renovation to rejuvenate the room soon.,Couple,amara_reviews.csv
+“Eye Infection”,8.0,Went for staycation with my hubby. the room size is good and marina square is just right next door. but we both got our eyes infected during the stay. hopefully the next time we visit will not happen again.,Couple,Javian_Raw_Dataset.csv
+“Good dinning option”,8.0,There is many nice restaurant nearby.,Business traveler,m-hotel-singapore.csv
+“Lovely hotel overall ”,8.8,"We picked this hotel for our year end staycation and had a lovely time overall. The room was clean, spacious and it came with its own filtered water tap and a coffee machine too.
+
+There were a couple of misses too, for instance the first staff who checked us in was rushing through and didn’t explain the breakfast hours or how we could log on to the wifi. But our experience with every staff thereafter more than made up for it.  The highlight for us was the lovely Duty manager Doris, who not only helped us take a few pictures on our pjs, by their pretty Christmas tree, she also took a couple of Polaroid shots using the hotels camera, for us. Her graciousness was memorable. The last staff who checked us out was friendly too. Will recommend this hotel. Thank you for the pleasant stay.",Couple,Javian_Raw_Dataset.csv
+“Birthday staycation”,7.6,"Initially, the call for follow up before the date was not that good. But during the stay! It was really nice. Thanks for celebrating my bday.",Couple,Javian_Raw_Dataset.csv
+“Baustellenlärm und Haarbüschel in der Dusche”,6.0,"Wir haben das Hotel nur für eine Nacht gehabt, zum Glück.
+Hotelpersonal ist nicht wirklich freundlich, sehr kühl und einfach nur abwickelnd. Wir wurden den ganzen Nachmittag mit Ohrenbetäubendem Baustellenlärm von nebenan beschallt. Zimmer ziemlich klein, an sich sauber, aber bei uns lag ein Haarbüschel vom Vorgast in der Dusche. Einfach eklig.  Klimaanlage ist furchtbar, man wird auf kleinster Stufe richtig angeblasen im Bett. Lage ganz gut.",Couple,hotel_review_dataset.csv
+“nice”,10.0,rooms in beverly are very tidy and clean,Group,hotel_review_dataset.csv
+“Good location for business”,6.8,"This is an old property, hence everything is a little old, but clean.
+
+Got a club room with club benefits-staff were professional and friendly.
+
+Good spread for breakfast! It was lovely!",Solo traveler,m-hotel-singapore.csv
+“Bad Service”,6.0,"It took 1hr to check in, long queue. 
+After long queue, gotta wait for another 1hr plus for room which was mentioned only 30mins. Staff wanted to downgrade us if we cnnt wait. Receptionist wasnt even friendly. Mentioned tht they even stand for long hrs when we complaint abt how long the queue was. Hskping was very long 2hrs plus to send items. Very bad service for a 5 star hotel. What a shame.",Family with teens,Javian_Raw_Dataset.csv
+“Clean and nice ”,8.8,Spacious resort with alot of pool facilities. Will come back again!,Group,amara_reviews.csv
+“Fine Stay”,8.8,"My parents had stayed here before and told me it was good.
+I got a good deal and stayed here. All was good but no time to enjoy the facilities.",Business traveler,Javian_Raw_Dataset.csv
+“Thoughtful Staff”,10.0,The staff at Amara Sanctuary hotel and Shutters knew our wedding anniversary and gave us a pleasant surprises. How lovely and memorable they have created for us.,Family with young children,amara_reviews.csv
+“Very bad costumer service don’t waste time trying to checkin early ”,2.0,Very cold Swimming pool,Family with young children,amara_reviews.csv
+“Not Happy”,6.4,I had a bit of bad experience from this hotel since the staff charged me again for a higher price when i checked out even if my booking was a prepaid booking through agoda (inclusive of tax) insisting NO payment was made. Too troublesome  and staff was even insisting that i should be the one to sort Out the issue with Agoda myself since this was booked though a 3rd party.,Couple,amara_reviews.csv
+“Businnes trip”,10.0,Nice hotel by its location,Business traveler,m-hotel-singapore.csv
+“Very avg stay for the price ”,6.4,"Staff was a bit arrogant. Pool was quite dirty and jacuzzi broken. 
+Room and hotel was clean. Location was the biggest plus. Wouldn't recommend for tourists, seemed more apt for business travellers",Couple,m-hotel-singapore.csv
+“Amazing stay”,10.0,One of the best hotel in Singapore. Room is super clean and concierge is friendly.,Couple,m-hotel-singapore.csv
+“Bedbugs in the bed”,6.4,"Make my skin itchy and keep awake until is downgrade the room. 
+Must need deep clean.",Business traveler,hotel_review_dataset.csv
+“Exceptional”,9.6,"Goof service, and good breakfast. I lived here for two nights. There was little change of breakfast each day, and good for me. The position is a little little far from the express station, it will take 10-15 min for walking. The environment was good, very quiet in the night time. The coffee was good. All the staff were kind and friendly.",Couple,amara_reviews.csv
+“スタッフ、最高”,9.2,"職場のグループ旅行で利用しました。
+スタッフがとてもフレンドリーで親切です。お部屋はシングルで、シャワーとトイレに仕切りがなく不安でしたが、実際はスペースが思ったより広く段差もあり全く問題なし。ラベンダー駅からも徒歩5分の場所にあり、ホテルの前にはスーパーマーケットもありとても便利。",Group,hotel_review_dataset.csv
+“Exceptional”,10.0,Friendly staffs and clean,Couple,m-hotel-singapore.csv
+“Hit and miss with cleanliness”,7.2,"Unfortunately, this stay was a miss because the toilet bowl rim had ""brown stains"" on it. Couldn't ask for another room because it seemed like a full weekend for the smoking rooms. Thankfully, the shower head at the tub had a strong jet-like setting. Third time staying this year but cleanliness in the bath/toilet could REALLY use some checking and consistency.",Couple,Javian_Raw_Dataset.csv
+“Acceptable”,3.6,"Checking in at 8pm, I am heavily pregnant, pulling luggage & toddler walking towards lobby, no staff helps or open the door for me.
+
+Showering is on the left & bathtub on the right, which results in wet floor when you want to enjoy the bathtub after showering. There is also only 1 floor mat, which had been seriously soaked with water.
+
+The aircon is not cold at all. We were perspiring & even my 4yo kid was asking to change to short sleeve top & bottom.
+
+We requested twice for additional pillow & towel after waiting for an hour (we are waiting for the towel to bathe).
+
+They dont provide comb, sewing kit or safety pin - (as we in need one) replied were their hotel policy not providing sharp items to guests) and also did not replenished basic toiletries. It only appeared next day after make up room.",Family with young children,amara_reviews.csv
+“Staycation”,10.0,"We enjoy our staycation. The staff upgrade us to the lifestyle room, it was fantastic. Everything at the hotel is wonderful & even the breakfast is delicious. Thank you parkroyal collection hotel.",Couple,Javian_Raw_Dataset.csv
+“The Best The Best”,10.0,It’s very near to MRT and all locations nearby. The hotel is very good and clean. Must stay in this hotel when I will visit again.,Solo traveler,hotel_review_dataset.csv
+“Average”,6.4,No more than an average hotel with small rooms. Suits a business traveler. Convention location. Better to go out for breakfast.,Couple,m-hotel-singapore.csv
+“Номера очень маленькие ”,9.2,"Отель чистый. Но маленький. Находится не в очень респектабельном районе, но метро и торговый центр рядом. Хорошее место чтобы один раз переночевать",Couple,hotel_review_dataset.csv
+“Spacious room”,8.3,Pleasant stay in a spacious room with bathtub.,Couple,m-hotel-singapore.csv
+“Good ambience”,8.0,Good for couples or family who wish to chill and relax. Great get away for tourist who wish get away from their busy work life and dive into the relaxation of the beach side.,Couple,amara_reviews.csv
+“Opportunity to improve”,4.8,"The Front Office is not that friendly. 
+Misleading information. She mentioned the breakfast is not halal, when we asked whether the room comes with breakfast. Then, the next day, when we wanted to go for breakfast, the cafe said our room did not cover breakfast.",Couple,m-hotel-singapore.csv
+“Very good”,7.6,"The hotel is newly renovated with a nice partial view of the Marina Bay Area. Housekeeping delivered my requested items quickly so that’s a plus. Booking of swimming pool was a breeze. However, the pool was not well maintained and the water was quite dirty. There was also no one to check that people keep to their booking slots so it can be quite crowded. They also ran out of pool towels on the first day and despite waiting through the 1 hour slot we were there, there were still no towels  and we ended up wiping down with the bathrobe and small towel we brought along. 
+This aside, Location of the hotel was great as it’s right between marina square and suntec city so food options were many. It would have been great if the hotel can include breakfast into the room deal.",Family with young children,Javian_Raw_Dataset.csv
+“Exceptional”,10.0,"Staff very friendly,Will be back again",Couple,m-hotel-singapore.csv
+“Exceptional”,10.0,Great stay!,Solo traveler,Javian_Raw_Dataset.csv
+“Staycation ”,8.4,Spacious and comfortable,Family with young children,m-hotel-singapore.csv
+“Nice hotel but the service is not that excellent”,5.2,Nice hotel but the service is not that excellent,Group,Javian_Raw_Dataset.csv
+“Awesome and worth it ”,10.0,,Couple,m-hotel-singapore.csv
+“Standard has dropped”,4.4,I was bitten by bed bugs. Have bite marks all over my body. Tried going for a walk but was bitten by mosquitoes so never got to enjoy the facilities too. Toilet and room and bed looked clean. But I was itching all over when lying on the bed.,Couple,amara_reviews.csv
+“Couple sleeping in two super single beds”,6.8,"We came as a couple, had requested when booking we want king size bed. But when we checked in, we got two single bed. Very disappointed. And no available room for us to change.",Couple,amara_reviews.csv
+“Ok”,7.2,Room quite small but clean,Couple,hotel_review_dataset.csv
+“Great service in an albeit dated & slightly tired hotel...”,8.8,"Convenient (great!) location, rates seem slightly lower than surrounding hotels which is rather fair granted its slightly dated and tired looking interior. Oddities: quite a bit of dust at work desk & TV console area; amenities were set up wrongly (no shampoo) which required a quick call to Housekeeping & basin plug was undone (this I can’t fix myself & left it anyway).",Solo traveler,Javian_Raw_Dataset.csv
+“Good hotel”,10.0,Recommended hotel to stay when you visit sg,Solo traveler,hotel_review_dataset.csv
+“Cozy place with best location in SG !!”,8.0,"Cozy room 
+Cleanliness
+Quiet place 
+Rest room too good
+Free water refill!!
+Have faucet !! 
+Many many delicious food around hotel 
+Fairprice supermarket near hotel 
+Near Lavender MRT easy go to bugis for exchange",Family with teens,hotel_review_dataset.csv
+“Nice hotel to stay”,7.2,The towels we are using are old and some are torn. Its time to replace with new ones.,Couple,amara_reviews.csv
+“Lovely place to stay with nice decor and food”,9.2,"Overall we loved our stay there. Place was pretty, clean and comfortable. Food selection was good as well. Staff were friendly and helpful, and the birds singing throughout the day is so mesmerising. 
+
+Some areas for improvement 
+1. Bed was a little dusty when we stayed. Not sure why. 
+2. Room AC not cold enough during the heatwave (it was 34 to 35°C on that day)
+3. In room dining. This was a little unpleasant as we had a long day out and decide to settle down and have our late dinner back in the room. We placed our order at around 10:50PM but the food came only at 12:10 AM. You know the saying - a hungry men is an angry men and I was edgy while waiting for the food. But nonetheless food was good and I guess it was late at night and the kitchen was probably closed which explains why it took longer. But it'd be good if the staff could keep us updated instead of having to call 4 times to check on the order. 
+
+Overall I'd still recommend this place. It was my first time and I'd probably go back when I visit again.",Couple,Javian_Raw_Dataset.csv
+“Very good”,8.0,Spacious and comfy.,Solo traveler,Javian_Raw_Dataset.csv
+“Short and very enjoyable stay with spouse”,8.4,Great location to access shopping mall in Marina Bay,Couple,Javian_Raw_Dataset.csv
+“Totally chaotic.”,6.0,"Staffs were exceptionally unhelpful. Their attitudes are they don't care about customer services. I booked two rooms and all were prepaid. I checked in at 4.30pm in the afternoon.
+Rooms are not ready. Been given one room with two single beds
+Though I have requested month's ago for a double room.
+2nd room was no sign of it until I pushed at 5.30pm. Only them was given the rooms.
+Both rooms booked including breakfast.when I went for breakfast, been told by waiting staff that they was no sign of my booking.
+Disguised and protested to the checking in staffs at reception.
+No apology and just phoned the restaurant and said I can now go for. Breakfast.
+One of the worst hotel I had stayed",Couple,m-hotel-singapore.csv
+“Unpleasant Stay”,2.8,"Expensive room rate where we expected the stay to be nice and pleasant. 
+Facilities are down at the same time, gym was under renovation. 3 swimming pools under renovation and maintenance at the same time. 
+No idea how the management arrange the hotel improvement where all schedule clash together and hotel guest can only enjoy the room only. 
+Shower head was broken, only rain shower is working. Whole night sleeping disturbed by the sound or draining system. 
+Not worth of the money paid for.
+
+Will not ever stay again.",Couple,amara_reviews.csv
+“Great Location for F1 Race”,8.4,Great Location for F1 Race and also good anytime.  Room was spacious and staff were great.  Unfortunately the pool was undergoing maintenance while we were there.,Group,Javian_Raw_Dataset.csv
+“Staycation”,10.0,Good and clean,Couple,hotel_review_dataset.csv
+“최고의 가성비숙소”,8.8,"메인역에서 좀 떨어져 있지만, 숙소근처에 도보 3분 거리에 지하철역이 있고 바로 앞에 페어프라이스 마트가 있다. 예민해서 캡슐호텔에서 묵기 힘들다면 여기가 최고의 선택지가 될 것 같다.",Solo traveler,hotel_review_dataset.csv
+“WKL”,9.2,"Room size is big (29m2), clean, includes breakfast, and near to MRT and the business district. 
+
+Very good indeed",Solo traveler,m-hotel-singapore.csv
+“Thank you Manager Abel”,9.6,"There was a small hiccup during my transition of room changing from Day 1 of stay . Was promised a Room A to Room B no waiting transition but was faced otherwise upon check out from Day 1 .  Was furious. If  I have not been told the arrangement above could be done ( no waiting transition) probably would not have made arrangements to work around with plans. Plans made, much to my horror , was told upon check out need to wait till 3pm before I can be checked into my new room. (Timestamp:1210 noon )And was brushed away with.. ""sorry as you know it's the holiday season , we are fully booked . ... the housekeeping has not cleaned the room..... they got many rooms to clean up .... please come back at 3 pm"" 
+I saw no efforts made to check with house keeping or with her manager. AND I SERIOUSLY FEEL ""THEY GOT MANY ROOMS TO CLEAN UP"" was very uncalled for to be told . 
+I went up to my vehicle and called furiously to their phone lines which also took quite a while to be even answered .  I tried all extensions too.
+
+But fortunately,  Manager Abel made it all better . He apologized for the hiccup . He went to see what necessary arrangements could be done and called me back as and when throughout to update me with follow ups.  He manage to get me a room around  1 30pm .
+But I went around to reschedule my plans and decide to pick my kids n helper up from mainland first .
+Arrived.  The check in was fast and smooth. The counter staff told me my room is ready and ushered me room keys upon immediate .. 
+I am thankful and appreciate that Manager Abel has been a wonderful help , customer service is very professional.  The 2 stars for him . 2 for the overall hotel , room satisfaction, -1 for counter check in experience.",Group,amara_reviews.csv
+“nice area but bad staff for helping find lost item”,7.2,i'm lost my necklace in room after i'm checked out then i'm noticed i'm lost my item i'm rushing back to hotel and ask staff they didn't help me much as the possible and don't want me to go inside the room because they already cleaned i'm sure 100% that i'm forgot my necklace at room but they didn't ask cleaner or mate they just siad you can e-mail to us then i'm e-mail to hotel for feedback after i'm back to my country. next to week they never reply so i'm re-sent my request again and still never reply me.,Couple,m-hotel-singapore.csv
+“Exceptional”,9.6,Bed is very comfortable. The breakfast is nice and the receptionist staff at the breakfast cafe is superb. Very good service.,Couple,amara_reviews.csv
+“NA”,8.7,,Solo traveler,m-hotel-singapore.csv
+“Great staycay”,10.0,"Book the urban room. Ad we were staying with young children, staff recommended for us to upgrade to suite. So we had to deal with a smaller area which doesnt have much space for them to play around but since it was just 1 night we are good. In room dining was delicious. Breakfast was great. Food was halal. All great and def consider staying there again.",Family with young children,Javian_Raw_Dataset.csv
+“Exceptional”,9.6,"Very good 
+Nice place to be 👍👌",Couple,Javian_Raw_Dataset.csv
+“가성비굿”,8.8,가격대비 괜찮아요! 방이 좁긴한데 시설이 새것이라 매우 깨끗합니다 하루이틀 묵기엔 딱 좋습니다,Solo traveler,hotel_review_dataset.csv
+“Exceptional”,10.0,Very clean room and facilities. Pool while small is clean and lovely.,Couple,Javian_Raw_Dataset.csv
+“very good”,8.7,,Solo traveler,m-hotel-singapore.csv
+“Cleanliness ”,5.2,"I understand there is manpower shortage in current climate. However, I was quite disturbed that the room was observed to have been abandoned for sometime, dust and dead insects in the bath tub, cups not replenished. But the last straw was to find a piece of lady top under the couch when I was about to check out. Utterly disappointed",Couple,amara_reviews.csv
+“Excellent”,8.8,"Great looking hotel , nice pool , restaurants, it’s a bit pricey for drinks at the bar and there gym is just average, but other than that it’s great hotel to stay at",Couple,Javian_Raw_Dataset.csv
+“Excellent”,8.8,Great location especially for formula 1.  Handy to mall next door and MRT to get around,Family with teens,Javian_Raw_Dataset.csv
+“Happy Stay with M Hotel”,10.0,"Celebrated my birthday and wedding anniversary with M hotel, rooms are spacious and clean. Hotel even prepared a cake for our celebration. Highly recommended",Couple,m-hotel-singapore.csv
+“Very convenient hotel”,9.6,"Near Lavender MRT station +/-300 meters, clean, friendly and helpful staff, free refill water from dispensers and importantly they have bidet!",Group,hotel_review_dataset.csv
+“Great location and big room!”,8.4,Room was big and clean! Efficient service from the staff as well :),Couple,m-hotel-singapore.csv
+“Okay”,8.0,Okay,Couple,Javian_Raw_Dataset.csv
+“Overpriced”,5.6,The facilities are quite aged. Not much maintenance to the basic facility such as the pool. Not that near to main attractions. Will pay this price to stay in other newer hotels next time.,Family with young children,amara_reviews.csv
+“Romantic dinner at hotel restaurant”,8.0,Great hotel for couple.,Couple,m-hotel-singapore.csv
+“房間很小”,7.6,整體不錯，附近有生鮮超市、商場、美食廣場，吃東西買東西很方便，離地鐵站也很近，只是房間太小而已，除了飲水機外飯店沒什麼別的設施,Business traveler,hotel_review_dataset.csv
+“Hotel at the center of tourist spots and shopping”,9.6,"If you like convenience where the hotel is linked to one of the biggest shopping malls in Singapore (Marina Square) while being at the center of most Singapore tourist spots like the iconic Merlion, Esplanade, Marina Bay and Singapore Flyer, then Marina Mandarin is the best place to stay in.",Group,Javian_Raw_Dataset.csv
+“spacious”,8.0,room is spacious and clean.,Business traveler,m-hotel-singapore.csv
+“Very good”,8.0,Location was near to lavender MRT station. Many food court around the hotel. Small room but clean.,Couple,hotel_review_dataset.csv
+“Beautiful ”,8.8,No problem about their service,Business traveler,m-hotel-singapore.csv
+“4 Nights”,9.6,"Nice place to stay, not too crowded, walking distance to Lavender MRT so very convenient for me, nearby  got alot of food and NTUC, important the staff very friendly and helpful",Solo traveler,hotel_review_dataset.csv
+“Just nice for a solo traveller”,8.8,"I stayed here for one night, although the size of the room was much smaller than i thought but for me it’s okay as I’m not bringing too much baggage. Bedsheet was clean and toilet also huge and one + point was the toilet comes with bidet. & the location is also perfect with nearest mrt is within 5 mins of walking only.",Solo traveler,hotel_review_dataset.csv
+“Good”,6.8,"Experience and feel very close to a resort in Bali or Phuket, in the resort island of Sentosa.",Family with teens,amara_reviews.csv
+“Best and affordable”,10.0,"The hotel next to all hangout area, like Marina Bay Mall,  garden by the bays, Sentosa... so you might spend less on travelling.",Solo traveler,m-hotel-singapore.csv
+“Not very efficient”,6.4,"These are really small rooms - and we’ve stayed in small rooms before , but these are not well designed. There is absolutely nowhere to put a suitcase, even a small one. There was no storage under the bed, and the bed was very hard and cheap feeling. The bathroom was actually rather large compared to the bed, but with no shower glass separating the toilet you couldnt leave anything in there- so lots of wasted space. They don’t provide a hand towel, so for a couple you each get a towel and nothing else. Initially they forgot to stock us with toilet paper and when i had our room made up on the second day they put on dirty sheets. The roof deck was closed with no sign or note or anything. Without that there is no common space at all, so don’t expect to find even a chair anywhere on the property. The internet is censored so many common websites do not work - reddit, archive.org, random things. Lots of details that made us not want to recommend this to anyone.",Couple,hotel_review_dataset.csv
+“Clean & Green”,9.6,"Good breakfast, clean rooms, friendly staff, wandering peacocks. Location accessible due to shuttle bus service.",Couple,amara_reviews.csv
+“Budget hotel”,8.0,Okay,Couple,hotel_review_dataset.csv
+“Staycation”,10.0,"Love the Nostalgic feeling with it's Peaceful Serenity.
+
+Have always considered this place as a good get away to unwind.",Family with teens,amara_reviews.csv
+“Truly 4 star”,6.4,"Hotel was kind enough to allow us to switch rooms given that there was a strong paint smell in the first room. 
+Overall a pleasant experience.",Couple,Javian_Raw_Dataset.csv
+“สถานที่ดี มุมวิวสวย แก้ไขดีเมื่อห้องมีปัญหา”,9.2,"1.สถานที่โรงแรมใกล้แหล่งท่องเที่ยว Marina bay มุมจากห้องสวยมาก คุ้มค่ากับราคา
+2. สามารถ Early checking ได้ถ้าแจ้งก่อนและมีห้อง
+3. ตอนแรกห้องที่พักเข้าไปเรียบร้อยแต่มีปัญหาเล็กน้อยซึ่งแจ้ง manager ซึ่งโรงแรมได้ทำการขอโทษและเปลี่ยนห้องให้ใหม่ (upgrade) และให้สามารถเข้าพื้นที่คลับได้ฟรี (ประทับใจการแก้ไข)
+4. อาหาร และสิ่งอำนวยความสะดวกดีมาก รวมถึงพนักงานยิ้มแย้มแจ่มใส
+
+ห้อง 2037
+เหมาะที่จะกลับไปพักอีก",Couple,Javian_Raw_Dataset.csv
+“Nice new hotel.”,9.2,"Clean newly furbish hotel with friendly staff. Great location with awesome facilities. Shout out to the front desk staff, Doris who goes the extra mile to make our stay a wonderful one. Thank you.",Family with young children,Javian_Raw_Dataset.csv
+“Good value for money”,7.6,"The spa was not working.  The wall papaer was pealing but overall it was cost effective hotelcfor Singapore, it is just run down.",Family with teens,m-hotel-singapore.csv
+“Exceptional”,10.0,Very nice and clean hotel. I enjoyed my view and my stay. Will definitely come back.,Solo traveler,Javian_Raw_Dataset.csv
+“ห้องพัก”,7.2,สะอาดใหม่ดี อุปกรณ์ต่างๆใหม่ คุณภาพดี แต่ขนาดบริเวณส่วนอาบน้ำเล็กมาก  อาจจะอาบไม่ค่อยสะดวกนัก ผ้าขนหนูมีขนาดใหญ่แบบเดียว ใครจะเอาผืนเล็กต้องเตรียมไปเอง โดยทั่วไปใช้ได้ พนง ต้อนรับอัธยาศัยดี,Group,hotel_review_dataset.csv
+“5 star service”,10.0,The room that we've booked is Urban King. The room comes with modern interior and a city view. Amenities included in the room is good. Staffs are polite and responsive. Breakfast is good as well.,Couple,Javian_Raw_Dataset.csv
+“The good option for solo travel ”,10.0,Highly recommended for solo adventurers looking to make the most of their Singapore experience!,Solo traveler,hotel_review_dataset.csv
+“Good for stay”,10.0,"Nice place, comfy room, good location",Couple,hotel_review_dataset.csv
+“Could have been better for a 4 star”,8.0,"Checkin was ok as we checked in early n was charged day charge. We dint mind as we were travelling with an infant. Room looks bigger in pictures on web. Minibar was not there when we checked into the room and had to ring for it to be placed, shame as they had my credit card. Housekeeping did not clean our despite we left the sign on to be cleaned, again had to call for asking for basic cleaning, housekeeping staff mentioned they do not clean cups for tea coffee, then should say who does it or clears from room.  Bed was ok, but room needs a good refurb including bathroom. Food n beverage was good. Good breakfast. Had lunch in the restaurant, was excellent. Friendly staff at restaurant. And Fizal from concierge was awesome all the times and hard working guy. Thanks mate. Just coz of Fizal and restaurant staff we loved the hotel. Should seriously do something about housekeeping issues.....",Family with young children,m-hotel-singapore.csv
+“Exceptional”,10.0,"Near train station and lots of food nearby. Restaurants, cafes etc. the view was amazing with Singapore Flyer, MBS all in sight",Couple,Javian_Raw_Dataset.csv
+“nil”,5.3,,Couple,m-hotel-singapore.csv
+“Good location in the CBD”,9.6,"Location was pretty good and price was competitive at $230 (should be off peak pricing) with a 3/4 sized bathtub in the toilet. 
+
+I was not a fan of their voice activated smart assistant, couldn’t make a call to their front desk so i had to use the manual phone in the toilet.
+
+They also do not provide any bottled water so i had to top up their filtration device with the tap in the toilet. 
+
+Everything else was good.",Couple,m-hotel-singapore.csv
+“Not bad”,8.8,"위치는 좋아요..
+위치 좋아요..
+객실 사이즈는 고시원크기에 개인욕실 있는 정도?",Solo traveler,hotel_review_dataset.csv
+“Thank you for the Stay”,9.6,I had a great time here at Amara sanctuary with my wife. I didnt expect a cake that was requested by me from the staff. I enjoy the direct pool access which i fully utilised it. Will definitely book a stay here again in near future.,Solo traveler,amara_reviews.csv
+“nice stay”,8.4,Location is good.  Walking distance to MRT and Chinatown.  Rooms are nice and clean.  Breakfast is good with lot of choices.,Family with young children,m-hotel-singapore.csv
+“Very good breakfast & always love the room”,9.6,"It was disappointing, I arrived at the hotel at 3.15 pm but the room wasn't ready.  I just got  a room at 4. 30 pm.",Solo traveler,Javian_Raw_Dataset.csv
+“Above average”,6.0,"I'm Asian. During check-in, I tried to use the self check-in system. I completed the entire process, but the room key did not print out, forcing me to go to the front desk. Although there were three or four counters, only two staff members were visible. Then, a European or American customer arrived, and suddenly, another staff member emerged from the office to assist the new guest. This sudden change was very strange and made me feel the staff's behavior was racially discriminatory.",Solo traveler,m-hotel-singapore.csv
+“Overall good”,6.8,-Nil-,Business traveler,m-hotel-singapore.csv
+“Not worth the money”,6.8,The hotel is quite run down for a five star hotel. The service is nothing extraordinary. Calling the reception desk from the room was nearly impossible. The hotel room needed some renovation. I do like that they allow 2 adults and 1 kid for free. It worked out well for us with my son. He was able to sleep on the sofa but needed a bed sheet to cover it since the sofa didn’t look clean. Breakfast options were great and the shuttle made it convenient.,Family with young children,amara_reviews.csv
+“Exceptional”,10.0,"great hotel.there's even water filter system in the room, bidet, great view to the mbs and floating platform, great halal breakfast, kids' playroom beside the breakfast restaurant. fast ez checkin too. Thanks!",Family with young children,Javian_Raw_Dataset.csv
+“Small but clean with good location”,7.2,"Good value for sleep and surrounded with supermarket, coffee shop and Cafe. Room are out expect as SMALL when 2 person stay, luggage can't open in properly with inconvenience.",Business traveler,hotel_review_dataset.csv
+“Our favourite brand”,8.0,We had a great time,Family with young children,Javian_Raw_Dataset.csv
+“Satisfied with the stay”,10.0,Clean and convinient,Business traveler,m-hotel-singapore.csv
+“コンセント”,8.4,"コンセントが２つしかなかった
+ベッドから遠い
+この問題以外は悪いところないでつ",Group,hotel_review_dataset.csv
+“便利なホテル”,8.0,地下鉄駅から徒歩で近く、向かいにスーパーがあり、近くに飲食店やフードコートもあり便利でした。部屋はコンパクトですが、きれいで、シャワーとトイレの間の仕切りがない点などがありましたが、快適に過ごすことができました。水、お湯のマシンが各フロア－にあり、便利でした。机がない点は注意かもしれません。小さい冷蔵庫はありました。,Business traveler,hotel_review_dataset.csv
+“Can be better”,8.4,"Overall very nice stay. However, room furnishing is dated and old, especially the tv need to be changed.",Couple,amara_reviews.csv
+“Exceptional”,10.0,Location was excellent . Everyone is so friendly and helpful.. Would definitely stay here again.,Couple,m-hotel-singapore.csv
+“Pleasant stay but check in process was slow”,9.2,"Check in timing stated 3pm, arrived at 3.40pm and was told room “not ready” after waited for 5-10 mins for filling up forms. Longest check in process ever for a 5 stars hotel. 
+
+Was given a drink voucher and offered late checkout next day at 1pm. 
+
+We went for swimming at 11am.
+However Door system was auto disabled at 11am, and I had to walk all my way with my swimsuit to lobby to get the door access cards activated again.  
+
+I hope these processes could be better !
+
+Overall cleanliness and facilities is acceptable .",Group,amara_reviews.csv
+“Clean and Conveniently Located”,7.6,"Clean hotel (although they didn't clean my room during my three night's stay) which is fine by me. Great location, closed to MRT, bus stations etc. I'd stay here again. Note: my single bed room is small but it is acceptable by me.",Solo traveler,hotel_review_dataset.csv
+“4D3N Beverly Hotel Elements”,10.0,Rooms small but vey clean. Very helpful staff. Near Lavender MRT and convenience store. Great value for money.,Solo traveler,hotel_review_dataset.csv
+“Wonderful stay that exceeded our expectations”,8.8,"We were glad that we made it for the staycation. 
+
+We love the interior architecture that really resembles a garden in a hotel. There were even birds chirping inside the hotel when we were having breakfast on level 4. They have a large and well-equipped gym room and pool. The pool looks gorgeous at night. We like our urban deluxe room that has a walk out balcony with the city view of Esplanade, National Gallery, and a glimpse of the Merlion at Marina Bay. It is indeed a 5-star hotel with good services, friendly and efficient staff. We went to celebrate our anniversary and received many surprises which we really appreciated it. The room design is comfy and modern, just a downside that the toilet design is a little old-fashioned with a traditional bidet toilet bowl which is quite unnecessary if they have upgraded their toilet bowls. And it could have been better if the filtered drinking water tap is outside the toilet instead of inside it. Plus, the toilet bowl shouldn't be so close to the low bath tub. 
+
+Putting aside the toilet design, everything else was great. We plan to stay here again in the near future.",Couple,Javian_Raw_Dataset.csv
+“Staycation”,8.8,"The room is big and comfortable. Highly recommended.  However, a birthday complimentary cake was promised and did not deliver despite confirmation until I asked at check-out. The cake received was a conventional one and did not have the birthday person name written on it as arranged.",Couple,amara_reviews.csv
+“Very poor!Not worthy to say 5star hotel ”,2.0,"Very rude Frontline staff not even know how to smile when they receive a guest .
+
+The blanket and bed were itchy to the extent we could not sleep on the night (we checked in at 8pm and went directly to room ).
+
+Phone is not working, we should WhatsApp the manager who will selectively respond your request (he did not answer or arrange anything when I asked them to bring towel as the cleaner forgot to keep the towel) 
+
+Swimming pool is slightly bigger than a water tank .
+
+Kids pool is under construction.
+ it's a complimentary breakfast, not a charity activity , it can be improved.
+2 coffee makers over there were burning without milk nobody bother to attend to it. I went there and paid for breakfast expecting good food even though I don't have complimentary breakfast , finally I regretted .
+
+I am writing this review for the management to take note so that another guest like me won't get disappointed.
+
+It's my mistake,I booked last minute just 2hours before my staycation at5.pm so that I didn't have better option,only left with this hotel.
+
+If you don't have any other choice and if you are prepared for series of disappointment,you can book this hotel.",Couple,amara_reviews.csv
+“Best stay ! ”,10.0,"Stayed here for a night with my daughter to attend a concert . Room was clean and view was amazing . Amazing friendly staffs , hotel is easily accessible .",Family with young children,Javian_Raw_Dataset.csv
+“Weekend getaway in Singapore”,9.2,"Hotel was in a good location, near to Orchard Road and Marina Bay.",Couple,Javian_Raw_Dataset.csv
+“Staycation”,10.0,Worth to stay in.,Couple,m-hotel-singapore.csv
+“good”,7.2,"everything good,only breafast is normal,not much different every day same.",Family with teens,Javian_Raw_Dataset.csv
+“Great for short stay ”,9.2,Room is small. Other than that it’s fine,Couple,hotel_review_dataset.csv
+“真的很棒的一次体验”,10.0,酒店确实很小 但是麻雀虽小五脏俱全 首先前台两位小姐姐的服务就很好 很有耐心地为你解答问题 其实是房间真的很干净 两个人完全够住了 很舒适的一次住宿体验 下次来新加坡还会选择,Group,hotel_review_dataset.csv
+“快適なステイでした！”,9.6,"アクセスも良く清潔で、とても快適なステイでした。
+電源プラグなどもフロントで頼めば貸し出ししてくれます.",Solo traveler,hotel_review_dataset.csv
+“位置很好的酒店”,10.0,离地铁近，安静，附近吃饭的地方很多,Couple,hotel_review_dataset.csv
+“Nice hotel”,10.0,Nice hotel,Family with teens,amara_reviews.csv
+“Most Fancy Place ”,10.0,The Price is worth it for place to stay and comfortable,Solo traveler,Javian_Raw_Dataset.csv
+“Great business hotel”,8.3,Hotel is nice but pretty far from Chinatown area.  Hotel room is quite big and clean.  Breakfast is very boring with less variety and taste.,Business traveler,m-hotel-singapore.csv
+“hotel”,7.6,everything is alright just the hair dryer,Couple,m-hotel-singapore.csv
+“좋아요”,10.0,위치좋고 룸 컨디션도 좋아여,Family with young children,hotel_review_dataset.csv
+“Staffs are not professional ”,5.6,Seem like staffs are not smile and helpful,Couple,m-hotel-singapore.csv
+“Awesome Stay”,10.0,"The hotel location is near from MRT station. The receptionist was very helpful. The room is compact and clean, you can get the drinking water from dispenser in each floor.",Solo traveler,hotel_review_dataset.csv
+“Very good”,8.0,房间虽然不大，但是挺干净的。离地铁站近，附件有好多吃的，附件有家蛋糕店很喜欢，路过都会买。,Couple,hotel_review_dataset.csv
+“Acceptable”,3.6,"Pro:
++ free parking
++ nice truffle mushroom soup from their in room dining 
+
+Cons:
+x villa is dirty upon entering
+x the pool is covered by leafs
+x don’t bother soaking in the bath tub as it’s covered with leafs
+
+x flies and mozzie as it’s a villa
+x annoying mosquito net attached to bed
+
+x villa is noisy during the day cause it’s near USS 
+x it’s noisy even at night (didn’t have a good night sleep)
+
+x don’t bother to have private parties 
+x booked it for a celebration but was asked to pay $500 for cleaning up fees
+
+x slow check in and check out
+x not worth $1700 for 2 nights stay could get better environment with this pricing 
+
+Overall a disappointment and wouldn’t be back again",Couple,amara_reviews.csv
+"“Good location, hassle-free”",8.4,"room is small, but super clean, and the hotel is located in a strategic area, few minutes walk from Lavender MRT.
+
+This is my go to hotel for a straightforward stay in SG.",Couple,hotel_review_dataset.csv
+“Fantastic”,10.0,the hotel is great,Couple,m-hotel-singapore.csv
+“Everything’s was good but noisy”,10.0,"We have mention we bring an infant tgt
+But the next room was stay with a dog
+When the dog bark very loud, my baby crying a whole night nvr sleep
+Hope can improve",Family with young children,amara_reviews.csv
+“good”,9.6,good,Couple,m-hotel-singapore.csv
+“It’s clean!”,8.0,"Building and rooms are clean. Theres a construction going on right beside the building so you can’t rest during the day bcs its so noisy & all those drilling sounds caused a mini earthquake for hours. We are staying for 3 nighs, the first 2 nights were so hard to bear during the midnight bcs there are noises all over the wall, every minute for HOURS. Not sure if its from the neighbors or something mystical🙂 complain it on the next day with the receptionist, and at least on the last night me and my friend can sleep peacefully like a baby.",Couple,hotel_review_dataset.csv
+“Facilities not well maintained ”,6.8,Floor was dirty and pillows smelly. Overall facilities are old and not well maintained. A lot of scratches and chips on furnitures,Solo traveler,amara_reviews.csv
+“Bad Experience”,6.4,"1st day checking in I waited 45mins because the staff told me so until I have to ask the staff myself again. Secondly staff didn’t help us with unloading the bag when we reached the villa. in room dining tray was left outside my door on a drain and there was a monitor lizard eating it. Make up room didn’t even clear the bin at all. Checking out, staff didn’t even help me open the lobby door and help me load of my bags to the taxi. They only rush to help once they saw me opened the door and from what I see they were talking. Call reception a lot of times through the hotel room telephone but no pick up at all. Overall stay was good but horrible service.",Couple,amara_reviews.csv
+“Experience worthiness”,8.8,My stay iso far has been exceptional and would highly recommend to family and friends.,Solo traveler,Javian_Raw_Dataset.csv
+“Fantastic experience!”,10.0,The interior design of the hotel is amazing! The environment is clean and comfortable. Staff are friendly and professional. The location is convenient to attractions. Would love to stay here again.,Business traveler,Javian_Raw_Dataset.csv
+“Fantastic jacuzzi bath tube”,6.4,The bath tub was amazingly big. My girls had a good time playing in there. Room was big. Baby cot provided. Highly recommend for those who wish to relax.,Family with young children,m-hotel-singapore.csv
+“A day like a gift.”,10.0,"This resort was much better than I expected when I made the reservation. It's a place I want to come back to even faster. Maybe it felt like a dream because the front desk staff upgraded the room I had booked; it was truly a gift for the one-night stay. It's a shame that a day was too short to enjoy everything, but including the clean beds, comfortable room conditions, neat amenities, and the very close pool, everything was top-notch. Thank you for the best service :)",Couple,amara_reviews.csv
+“Excellent Modern Hotel”,10.0,"We bought our stay here pretty early and the price was really affordable. Highly recommend this place as it is near to a mall and several other sundry, F&B outlets. Also near the Lavender MRT which is direct from Changi too! Staff was super friendly. I arrived at 12pm and was able to check in early, really love the experience.",Couple,hotel_review_dataset.csv
+“Not as what I thought”,6.8,We staycation in this resort for 3 days and 2 nights. We were happy with the room but at the same time there are some are where the resort can improve. One of it is there was no housekeeping during first night ( next following morning ) we were aghast about it but we try understand since the staycation period was during Christmas holidays. The toilet and shower area were not clean enough most probably of rusting flooring and wall. Overall I and my wife were happy with the stay.,Couple,amara_reviews.csv
+“Enjoyed the stay”,10.0,Very clean and cozy,Couple,amara_reviews.csv
+“Disappointing Service ”,3.6,"When we arrived with our luggage at the reception we were told that they need to move us to another hotel (Orchard Hotel) because of SHN people being asked to stay at M hotel. I understand that the COVID-19 situation is very fluid n immediate changes need to be be made at short notice. 
+I just felt the hotel handled it badly. They had my contact details but did not let us know that we couldn’t stay at M Hotel and to ask us to go to Orchard Hotel instead. Instead they waited till we came to the hotel with all our luggage to tell us about this. On TOP of it the staff was
+Rude and nonchalant. 
+Not a hotel I would look at staying.",Couple,m-hotel-singapore.csv
+“Sylvia”,10.0,"Came back for the second time, so close to everything, shops, restaurants & sightseeing Great place to stay especially for a stop over",Couple,Javian_Raw_Dataset.csv
+“低預算的住宿選擇”,7.6,"房間比日本商旅酒店更小一點。
+勝在整潔，冷氣很足，房間和浴室沒有異味，而且浴室相對很寬敞。
+酒店基本沒有任何設施，房間有備品，打掃需要掛牌子。
+位置很方便往返機場，距離Bugis等也很近；對面有本地連鎖超市，附近有餐廳、麵包店和便利店，距離MRT也只有大約五分鐘路程。
+整體來說對預算不多或只住兩三晚的旅客是不錯的選擇。",Solo traveler,hotel_review_dataset.csv
+“Highly Recommend”,10.0,"Khách sạn okie, sạch sẽ, thơm. Không rất rộng, nhưng vừa okie cho 2 người.",Couple,hotel_review_dataset.csv
+“ห้องพัก”,9.6,ห้องพักขนาดเล็ก 2 คนเดินชนกัน แต่อยู่ได้ไม่อึดอัด สิ่งอำนวยความสะดวกครบ มีสายชำระ จองเตียงเดี่ยว แต่ได้เตียงคู่ โรงแรมเอาเตียงมาติดกันให้ แก้วน้ำสกปรก พนังห้องบางเวลาข้างห้องเปิดประตูจะได้ยินเสียงเหมือนเคาะประตูเป็นระยะๆ ดังจนสะดุ้งตื่น แต่โดยรวมถือว่าดี,Couple,hotel_review_dataset.csv
+“好”,9.6,很好，只是沒有太多設施 😊,Solo traveler,hotel_review_dataset.csv
+“テイラースイフト効果で高値でした”,7.2,"シンガポール全体がテイラースイフトのコンサートのために、ホテルが混み合っていて高値でした。
+
+フロントは小さくて怪しげでしたが、部屋は綺麗でした。
+バスルームも広かったのですが、シャワーとトイレの仕切りがないので床全体が濡れるのがちょっと気になりました。
+
+朝起きるころには乾いているので、問題はなかったです。
+
+スタッフはフレンドリーです。
+
+不満は日本の差し込みに対応したコンセントが一箇所しかないところと、鏡を見ながらドライヤーをかけるところがなかったことです。
+
+廊下にウォーターサーバーがあって、冷水、温水、お湯が使えて便利でした。
+
+場所はラベンダー駅から数分です。
+ホテルVのあるローカル感満載のショッピングモールを通って行けば、外を歩くのは道を渡るところだけで行けます。
+チャンギ空港にも、中心部にも行きやすいです。
+
+旅慣れた方で、こちらのホテルの宿泊費がご予算以内なら検討してもいいと思います。",Solo traveler,hotel_review_dataset.csv
+“Mini Zimmer in toller Lage ”,5.6,"Die Zimmer im Hotel sind leider winzig, so klein, dass man nichtmal einen Koffer offen irgendwo ablegen kann. Das Bett hat lauter geknarzt als eine tür im Horrorfilm und Toilette und Dusche sind nicht abgegrenzt, sodass das Klo nach dem Duschen immer 3h unter Wasser steht. Der Kühlschrank hat nicht funktioniert und auch der Safe war sehr klein. Allerdings kann das Hotel sehr mit der Lage Punkten, da man innerhalb von 1-2 Minuten an der U Bahn ist und von dort aus überall mit dem tollen U Bahn Netz hin fahren kann.",Couple,hotel_review_dataset.csv
+“Convenient”,10.0,"Easy accessibility, near to public Transport. Clean room and quite comfortable.",Couple,hotel_review_dataset.csv
+“Exceptional”,9.6,all are the best. the only choice when i travel to Singapore,Couple,hotel_review_dataset.csv
+“fast checkin room is clean and comfertable big bed”,8.7,"Satisfied, Happy..im always stay at M hotel everytime having good promotion. But please adding Steak menu in room, as my husband is steak lover, once he reach in room his tired and lazy to go down dinner at lobby. Hope hotel managetment considering abt changing menu in room. Thank you",Couple,m-hotel-singapore.csv
+“Hotel dengan lokasi strategis ”,8.0,"Secara keseluruhan hotel sangat baik, kamar double yang kami pesan sebenarnya cukup sempit untuk berdua namun tidak menjadi masalah mengingat di Singapura rata-rata luas kamar memang tidak terlalu besar. Lokasi sangat strategis dimana banyak penjual makanan dan kebutuhan lain, dekat sekali dengan stasiun mrt Lavender. Pelayan staf juga ramah dan responsif, kebersihan pun sangat terjaga. Mungkin yang menjadi catatan hanya kipas blower kamar mandi yang agak berisik apabila dinyalakan. Selebihnya puas dengan hotel ini.",Couple,hotel_review_dataset.csv
+“Room ”,10.0,"Room was spacious and clean . Also , staff at the front desk , Atiqah , was very accomodating , assisting with a smooth and check in experience .",Group,m-hotel-singapore.csv
+“Exceptional”,10.0,Love the balcony and the view . Good place to spend some time with your love ones . Everything was good . Air con could be cooler .,Couple,Javian_Raw_Dataset.csv
+“Staycation”,9.6,Booked a 2D1N for staycation. The room was spacious. Staff were friendly and helpful. Good service! The breakfast had a wide variety.,Couple,Javian_Raw_Dataset.csv
+“Good”,8.0,Good for solo trip,Solo traveler,hotel_review_dataset.csv
+“Nice”,10.0,Booked for my father in law. It was a great stay for him.,Solo traveler,m-hotel-singapore.csv
+“5☆ Service”,10.0,"Service was great. Staff (Nadia) remembered us from our previous stay and was very helpful and accommodating. Always loved their breakfast and there's a new kids' room to occupy the kids. Rooms were clean and comfy, as always. Keep it up!",Family with young children,Javian_Raw_Dataset.csv
+“Beyond our expectation!”,10.0,"My husband and I celebrated our honeymoon here in Amara right after our wedding. We were so pleased with our stay and the services provided for us. During our stay, we were given a complimentary cake for our honeymoon. The staff were very professional, polite and friendly. We will be coming back here again in future and recommend to our friends about Amara! Thank you for the hospitality Amara!",Couple,amara_reviews.csv
+"“Great stay, would recommend if the price of right ”",9.6,"We stayed in the main building and had an accessible room (did not book, but was assigned). Did not have a separate shower but made the bath shower work. Easy access to pool and elevators. There is renovation work ongoing - gym area has some work and the main room area probably needs some work. Overall  very nice stay, lovely staff, near the sentosa express 100% recommend if the price is in budget compared to other similar hotels.",Couple,amara_reviews.csv
+“Great for staycation.”,7.7,The room is really spacious and clean. location was good and staff and concierge was efficient.,Couple,m-hotel-singapore.csv
+“Only one word describes this place...”,9.6,Excellent.,Solo traveler,Javian_Raw_Dataset.csv
+“Value for money!”,10.0,"Great place, got free upgrade upon checking in. Everything was great.",Couple,Javian_Raw_Dataset.csv
+“nice hotel”,10.0,"i stay here for 1 day, all is nice, from staff and the room as well. new hotel, modern design. near mrt, alot of hawker food in front of the hotel. i will come back again.",Couple,hotel_review_dataset.csv
+“Good budget hotel in convenient location”,9.2,"Beverley Hotels Elements is a good budget hotel located conveniently near the Lavender MRT  station (MRT= Singapore's subway/metro) which is on the green line that comes from the airport.  It is not far from Little India, Kampong Glam, Geyalng. East Coast Beach, Marina Bay and Singapore City centre.
+
+The staff were helpful and allowed us to store our luggage for a few hours at the hotel after we arrived from the airport early in the morning, before the check in time of 2pm, and after checkout (checkout time is by 12pm) before it was time for us to go to the airport.
+
+The twin room was clean but very small, barely big enough for 2 beds, but that is ok for just a couple of days stay.  The room had an en suite shower/toilet and sink and a small fridge.  The tap water is safe to drink from the tap.
+
+The hotel does not serve breakfast but there are a lot of eating places nearby such as restaurants in shopping centre, food courts, an Indian Muslim restaurant, a coffee shop with a vegetarian stall.  There is a supermarket across the road from the hotel that opens from 7am to 11pm.",Couple,hotel_review_dataset.csv
+“CNY staycation ”,8.0,The hotel was nice and the rooms will good. Near to malls,Couple,Javian_Raw_Dataset.csv
+“my birthday celeb”,8.8,"The resort is clean and with aromatic scent.
+
+Concierge on duty grand our request to have the same floor with our sons.
+
+Staff jerome and others are  very attended in our request for our breakfast .
+
+We enjoy the infinite  pool alone  .Pool is clean and have a magnificient view of malacca straits",Couple,amara_reviews.csv
+“Beautiful Hotel”,9.6,Perfectly located to our concert arena. Really beautiful hotel,Family with young children,Javian_Raw_Dataset.csv
+“excellent”,9.6,strongly recommendable,Solo traveler,hotel_review_dataset.csv
+“Improvement needed to make it a better place to stay.”,7.6,"Interior need some repair and maintenance
+
+Counter staff work very hard to make guests feel at home, not an easy task for them due to communication problem between front desk and the housekeeping team.  We were told to go for lunch and back for check in at 3pm but upon return, we waited till nearly 4pm.
+
+Special thanks to Leo (I hope I got this name right and I have to commend that he really carries out his duties professionally and should be nominated for service award! ) and Vanessa (a lady wearing glasses) who took the extra miles to help us with our check-in as well as to extend our check out time to 2pm, otherwise it was really a short short staycation...",Family with teens,amara_reviews.csv
+“Very good”,7.2,位置有點不方便，步行到地鐵站有點遠,Family with teens,hotel_review_dataset.csv
+“Does not match its 5 star rating”,7.2,"The setting is beautiful and the location is great. However I don't believe the hotel deserves its five star rating. The property is worn and tired. For example the hallway carpets are badly staired, one pool was closed for repairs, and maintenance had to remove a light bulb from my room as the only way for the light to turn off. 
+The room was clean and the staff were lovely and helpful. But I dare say there are too few of them rostered on so some services you'd expect at a 5 star resort were lacking. Such as no service to take your bags to the room.",Solo traveler,amara_reviews.csv
+“Beautiful hotel with good service”,10.0,"We arrived in the early morning and hotel allowed us to checked in early, the hotel looks very grand and good service. Room very clean and with comfortable bed. Very satisfied with their service.",Business traveler,Javian_Raw_Dataset.csv
+“Really helpful staff.. provided us with supplies that we needed ”,10.0,Big room with smoking room option. Good location and comfortable bed,Group,m-hotel-singapore.csv
+“Best for lonely person”,7.2,"Design for one people, come and go. Clean. But you will feel very lonely",Solo traveler,hotel_review_dataset.csv
+“New Year Eve staycation”,9.2,Good location and nice year end party. Send a small Bday cake for my daughter. Appreciate the kind gesture,Family with young children,Javian_Raw_Dataset.csv
