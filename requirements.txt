@@ -1,0 +1,36 @@
+# Data handling
+pandas
+numpy
+scipy
+
+# Scraping (scraper.ipynb)
+selenium
+webdriver-manager
+beautifulsoup4
+
+# NLP preprocessing (data_preprocessing.ipynb)
+nltk
+
+# Classical ML & tuning (text_classification.ipynb)
+scikit-learn
+umap-learn
+optuna
+tqdm
+
+# Deep learning / transformers (text_classification.ipynb)
+torch
+transformers
+accelerate
+datasets
+evaluate
+sentence-transformers
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+nbformat
+
+# Notebook runtime
+jupyter
+ipykernel
